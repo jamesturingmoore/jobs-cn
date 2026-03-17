@@ -1,5 +1,7 @@
 # 中国职业市场可视化
 
+**[在线演示](https://jobs-cn.pages.dev)** | **[GitHub](https://github.com/jamesturingmoore/jobs-cn)**
+
 基于《中华人民共和国职业分类大典》(2022年版)的中国职业市场可视化工具，展示AI对各职业的潜在影响。
 
 ![Preview](preview.png)
