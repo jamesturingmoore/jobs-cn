@@ -1,0 +1,6309 @@
+[
+  {
+    "code": "1-02-01-00",
+    "title": "国家权力机关负责人",
+    "category": "党的机关、国家机关、群众团体和社会组织、企事业单位负责人",
+    "sub_category": "",
+    "slug": "guo-jia-quan-li-ji-guan-fu-ze-ren"
+  },
+  {
+    "code": "1-02-02-00",
+    "title": "国家行政机关负责人",
+    "category": "党的机关、国家机关、群众团体和社会组织、企事业单位负责人",
+    "sub_category": "",
+    "slug": "guo-jia-xing-zheng-ji-guan-fu-ze-ren"
+  },
+  {
+    "code": "1-02-03-00",
+    "title": "人民政协机关负责人",
+    "category": "党的机关、国家机关、群众团体和社会组织、企事业单位负责人",
+    "sub_category": "",
+    "slug": "ren-min-zheng-xie-ji-guan-fu-ze-ren"
+  },
+  {
+    "code": "1-02-04-00",
+    "title": "监察机关负责人",
+    "category": "党的机关、国家机关、群众团体和社会组织、企事业单位负责人",
+    "sub_category": "",
+    "slug": "jian-cha-ji-guan-fu-ze-ren"
+  },
+  {
+    "code": "1-02-05-01",
+    "title": "人民法院负责人",
+    "category": "党的机关、国家机关、群众团体和社会组织、企事业单位负责人",
+    "sub_category": "",
+    "slug": "ren-min-fa-yuan-fu-ze-ren"
+  },
+  {
+    "code": "1-03-00-01",
+    "title": "民主党派负责人",
+    "category": "党的机关、国家机关、群众团体和社会组织、企事业单位负责人",
+    "sub_category": "",
+    "slug": "min-zhu-dang-pai-fu-ze-ren"
+  },
+  {
+    "code": "1-04-01-01",
+    "title": "工会负责人",
+    "category": "党的机关、国家机关、群众团体和社会组织、企事业单位负责人",
+    "sub_category": "",
+    "slug": "gong-hui-fu-ze-ren"
+  },
+  {
+    "code": "1-04-01-04",
+    "title": "其他人民团体和群众团体负责人",
+    "category": "党的机关、国家机关、群众团体和社会组织、企事业单位负责人",
+    "sub_category": "",
+    "slug": "qi-ta-ren-min-tuan-ti-he-qun-zhong-tuan-ti-fu-ze-ren"
+  },
+  {
+    "code": "1-04-02-00",
+    "title": "社会团体负责人",
+    "category": "党的机关、国家机关、群众团体和社会组织、企事业单位负责人",
+    "sub_category": "",
+    "slug": "she-hui-tuan-ti-fu-ze-ren"
+  },
+  {
+    "code": "1-04-04-00",
+    "title": "社会中介组织负责人",
+    "category": "党的机关、国家机关、群众团体和社会组织、企事业单位负责人",
+    "sub_category": "",
+    "slug": "she-hui-zhong-jie-zu-zhi-fu-ze-ren"
+  },
+  {
+    "code": "1-04-05-00",
+    "title": "基金会负责人",
+    "category": "党的机关、国家机关、群众团体和社会组织、企事业单位负责人",
+    "sub_category": "",
+    "slug": "ji-jin-hui-fu-ze-ren"
+  },
+  {
+    "code": "1-05-00-02",
+    "title": "村民委员会负责人",
+    "category": "党的机关、国家机关、群众团体和社会组织、企事业单位负责人",
+    "sub_category": "",
+    "slug": "cun-min-wei-yuan-hui-fu-ze-ren"
+  },
+  {
+    "code": "1-06-01-01",
+    "title": "企业董事",
+    "category": "党的机关、国家机关、群众团体和社会组织、企事业单位负责人",
+    "sub_category": "",
+    "slug": "qi-ye-dong-shi"
+  },
+  {
+    "code": "2-01-01-00",
+    "title": "哲学研究人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhe-xue-yan-jiu-ren-yuan"
+  },
+  {
+    "code": "2-01-02-00",
+    "title": "经济学研究人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "jing-ji-xue-yan-jiu-ren-yuan"
+  },
+  {
+    "code": "2-01-04-01",
+    "title": "教育学研究人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "jiao-yu-xue-yan-jiu-ren-yuan"
+  },
+  {
+    "code": "2-01-04-02",
+    "title": "心理学研究人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "xin-li-xue-yan-jiu-ren-yuan"
+  },
+  {
+    "code": "2-01-06-01",
+    "title": "数学研究人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shu-xue-yan-jiu-ren-yuan"
+  },
+  {
+    "code": "2-01-06-02",
+    "title": "物理学研究人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "wu-li-xue-yan-jiu-ren-yuan"
+  },
+  {
+    "code": "2-01-06-06",
+    "title": "地球科学研究人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "di-qiu-ke-xue-yan-jiu-ren-yuan"
+  },
+  {
+    "code": "2-01-08-00",
+    "title": "医学研究人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "yi-xue-yan-jiu-ren-yuan"
+  },
+  {
+    "code": "2-01-09-00",
+    "title": "管理学研究人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "guan-li-xue-yan-jiu-ren-yuan"
+  },
+  {
+    "code": "2-01-11-00",
+    "title": "军事学研究人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "jun-shi-xue-yan-jiu-ren-yuan"
+  },
+  {
+    "code": "2-02-01-02",
+    "title": "地球物理地球化学与遥感勘查",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "di-qiu-wu-li-di-qiu-hua-xue-yu-yao-gan-kan-cha"
+  },
+  {
+    "code": "2-02-01-03",
+    "title": "水工环地质工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shui-gong-huan-di-zhi-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-01-05",
+    "title": "钻探工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zuan-tan-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-02-03",
+    "title": "摄影测量与遥感工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "she-ying-ce-liang-yu-yao-gan-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-02-04",
+    "title": "地图制图工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "di-tu-zhi-tu-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-02-05",
+    "title": "海洋测绘工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "hai-yang-ce-hui-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-02-07",
+    "title": "地理信息系统工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "di-li-xin-xi-xi-tong-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-02-08",
+    "title": "导航与位置服务工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "dao-hang-yu-wei-zhi-fu-wu-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-03-01",
+    "title": "矿井建设工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "kuang-jing-jian-she-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-03-04",
+    "title": "选矿与矿物加工工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "xuan-kuang-yu-kuang-wu-jia-gong-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-04-01",
+    "title": "石油天然气开采工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shi-you-tian-ran-qi-kai-cai-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-04-02",
+    "title": "石油天然气储运工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shi-you-tian-ran-qi-chu-yun-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-05-03",
+    "title": "焦化工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "jiao-hua-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-05-05",
+    "title": "耐火材料工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "nai-huo-cai-liao-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-05-08",
+    "title": "铸管工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhu-guan-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-06-01",
+    "title": "化工实验工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "hua-gong-shi-yan-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-06-02",
+    "title": "化工设计工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "hua-gong-she-ji-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-07-01",
+    "title": "机械设计工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "ji-xie-she-ji-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-07-04",
+    "title": "设备工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "she-bei-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-07-05",
+    "title": "医学设备管理工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "yi-xue-she-bei-guan-li-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-07-08",
+    "title": "材料成形与改性工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "cai-liao-cheng-xing-yu-gai-xing-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-07-09",
+    "title": "焊接工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "han-jie-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-07-12",
+    "title": "船舶工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "chuan-bo-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-07-13",
+    "title": "铸造工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhu-zao-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-08-02",
+    "title": "飞行器制造工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "fei-xing-qi-zhi-zao-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-08-03",
+    "title": "航空动力装置设计工程技术",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "hang-kong-dong-li-zhuang-zhi-she-ji-gong-cheng-ji-shu"
+  },
+  {
+    "code": "2-02-08-04",
+    "title": "航空动力装置制造工程技术",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "hang-kong-dong-li-zhuang-zhi-zhi-zao-gong-cheng-ji-shu"
+  },
+  {
+    "code": "2-02-08-06",
+    "title": "航空产品适航工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "hang-kong-chan-pin-shi-hang-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-09-02",
+    "title": "电子元器件工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "dian-zi-yuan-qi-jian-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-09-03",
+    "title": "雷达导航工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "lei-da-dao-hang-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-09-04",
+    "title": "电子仪器与电子测量工程技术",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "dian-zi-yi-qi-yu-dian-zi-ce-liang-gong-cheng-ji-shu"
+  },
+  {
+    "code": "2-02-10-01",
+    "title": "通信工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "tong-xin-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-10-02",
+    "title": "计算机硬件工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "ji-suan-ji-ying-jian-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-10-05",
+    "title": "信息系统分析工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "xin-xi-xi-tong-fen-xi-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-10-06",
+    "title": "嵌入式系统设计工程技术人",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "qian-ru-shi-xi-tong-she-ji-gong-cheng-ji-shu-ren"
+  },
+  {
+    "code": "2-02-11-01",
+    "title": "电工电器工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "dian-gong-dian-qi-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-12-01",
+    "title": "发电工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "fa-dian-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-12-02",
+    "title": "供用电工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "gong-yong-dian-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-12-05",
+    "title": "电力工程安装工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "dian-li-gong-cheng-an-zhuang-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-14-01",
+    "title": "广播电视制播工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "guang-bo-dian-shi-zhi-bo-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-14-02",
+    "title": "广播电视传输覆盖工程技术人",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "guang-bo-dian-shi-chuan-shu-fu-gai-gong-cheng-ji-shu-ren"
+  },
+  {
+    "code": "2-02-15-01",
+    "title": "汽车运用工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "qi-che-yun-yong-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-15-02",
+    "title": "进行汽车运行",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "jin-xing-qi-che-yun-xing"
+  },
+  {
+    "code": "2-02-15-03",
+    "title": "水上交通工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shui-shang-jiao-tong-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-15-04",
+    "title": "从事船舶",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "cong-shi-chuan-bo"
+  },
+  {
+    "code": "2-02-15-05",
+    "title": "技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-15-07",
+    "title": "视觉航标工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shi-jue-hang-biao-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-15-08",
+    "title": "道路交通工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "dao-lu-jiao-tong-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-15-09",
+    "title": "公路养护工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "gong-lu-yang-hu-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-16-01",
+    "title": "民用航空器维修与适航工程技",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "min-yong-hang-kong-qi-wei-xiu-yu-shi-hang-gong-cheng-ji"
+  },
+  {
+    "code": "2-02-16-02",
+    "title": "民航空中交通管理工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "min-hang-kong-zhong-jiao-tong-guan-li-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-16-04",
+    "title": "民航飞行签派工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "min-hang-fei-xing-qian-pai-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-17-02",
+    "title": "铁道机务工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "tie-dao-ji-wu-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-17-03",
+    "title": "铁道车辆工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "tie-dao-che-liang-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-17-06",
+    "title": "铁道工务工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "tie-dao-gong-wu-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-18-01",
+    "title": "建筑和市政设计工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "jian-zhu-he-shi-zheng-she-ji-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-18-02",
+    "title": "土木建筑工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "tu-mu-jian-zhu-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-18-04",
+    "title": "供水排水工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "gong-shui-pai-shui-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-18-05",
+    "title": "工程勘察与岩土工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "gong-cheng-kan-cha-yu-yan-tu-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-18-07",
+    "title": "环境卫生工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "huan-jing-wei-sheng-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-18-09",
+    "title": "港口与航道工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "gang-kou-yu-hang-dao-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-18-10",
+    "title": "民航机场工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "min-hang-ji-chang-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-18-11",
+    "title": "铁路建筑工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "tie-lu-jian-zhu-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-18-12",
+    "title": "水利水电建筑工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shui-li-shui-dian-jian-zhu-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-19-01",
+    "title": "硅酸盐工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "gui-suan-yan-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-19-04",
+    "title": "混凝土工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "hun-ning-tu-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-20-02",
+    "title": "森林培育工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "sen-lin-pei-yu-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-20-05",
+    "title": "自然保护区工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zi-ran-bao-hu-qu-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-20-06",
+    "title": "森林保护工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "sen-lin-bao-hu-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-20-09",
+    "title": "经济林产品加工工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "jing-ji-lin-chan-pin-jia-gong-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-20-10",
+    "title": "林业资源调查与监测工程技术",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "lin-ye-zi-yuan-diao-cha-yu-jian-ce-gong-cheng-ji-shu"
+  },
+  {
+    "code": "2-02-21-01",
+    "title": "护和综合利用",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "hu-he-zong-he-li-yong"
+  },
+  {
+    "code": "2-02-21-02",
+    "title": "保护的规划",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "bao-hu-de-gui-hua"
+  },
+  {
+    "code": "2-02-21-03",
+    "title": "编制和实施河湖综合治理",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "bian-zhi-he-shi-shi-he-hu-zong-he-zhi-li"
+  },
+  {
+    "code": "2-02-21-04",
+    "title": "研究",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "yan-jiu"
+  },
+  {
+    "code": "2-02-21-05",
+    "title": "L 用方法",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "yong-fang-fa"
+  },
+  {
+    "code": "2-02-22-02",
+    "title": "海洋环境预报工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "hai-yang-huan-jing-yu-bao-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-22-03",
+    "title": "海洋资源开发利用和保护工程",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "hai-yang-zi-yuan-kai-fa-li-yong-he-bao-hu-gong-cheng"
+  },
+  {
+    "code": "2-02-22-06",
+    "title": "深潜工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shen-qian-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-23-02",
+    "title": "染整工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "ran-zheng-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-23-03",
+    "title": "化学纤维工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "hua-xue-xian-wei-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-24-00",
+    "title": "食品工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shi-pin-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-25-03",
+    "title": "气候监测预测工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "qi-hou-jian-ce-yu-ce-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-25-04",
+    "title": "气象服务工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "qi-xiang-fu-wu-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-25-06",
+    "title": "防雷工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "fang-lei-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-26-01",
+    "title": "地震监测预测工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "di-zhen-jian-ce-yu-ce-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-26-03",
+    "title": "地震安全性评价工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "di-zhen-an-quan-xing-ping-jia-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-27-02",
+    "title": "环境污染防治工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "huan-jing-wu-ran-fang-zhi-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-27-03",
+    "title": "环境影响评价工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "huan-jing-ying-xiang-ping-jia-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-27-04",
+    "title": "核与辐射安全工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "he-yu-fu-she-an-quan-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-28-01",
+    "title": "安全技术防范工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "an-quan-ji-shu-fang-fan-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-28-04",
+    "title": "安全评价工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "an-quan-ping-jia-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-28-05",
+    "title": "房屋安全鉴定工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "fang-wu-an-quan-jian-ding-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-29-02",
+    "title": "计量工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "ji-liang-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-29-03",
+    "title": "质量管理工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhi-liang-guan-li-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-30-01",
+    "title": "工业工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "gong-ye-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-30-04",
+    "title": "项目管理工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "xiang-mu-guan-li-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-30-05",
+    "title": "再生资源工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zai-sheng-zi-yuan-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-30-09",
+    "title": "数据分析处理工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shu-ju-fen-xi-chu-li-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-30-10",
+    "title": "工程造价工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "gong-cheng-zao-jia-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-31-01",
+    "title": "产品质量检验工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "chan-pin-zhi-liang-jian-yan-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-31-02",
+    "title": "进出口商品检验鉴定工程技术",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "jin-chu-kou-shang-pin-jian-yan-jian-ding-gong-cheng-ji-shu"
+  },
+  {
+    "code": "2-02-31-05",
+    "title": "纤维质量检验工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "xian-wei-zhi-liang-jian-yan-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-33-00",
+    "title": "印刷复制工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "yin-shua-fu-zhi-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-34-01",
+    "title": "产品设计工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "chan-pin-she-ji-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-34-02",
+    "title": "工业设计工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "gong-ye-she-ji-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-35-01",
+    "title": "矫形器师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "jiao-xing-qi-shi"
+  },
+  {
+    "code": "2-02-36-01",
+    "title": "制浆造纸工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhi-jiang-zao-zhi-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-36-04",
+    "title": "日用化工工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "ri-yong-hua-gong-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-37-02",
+    "title": "城乡规划工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "cheng-xiang-gui-hua-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-38-02",
+    "title": "物联网工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "wu-lian-wang-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-38-03",
+    "title": "大数据工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "da-shu-ju-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-38-06",
+    "title": "工业互联网工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "gong-ye-hu-lian-wang-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-38-09",
+    "title": "集成电路工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "ji-cheng-dian-lu-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-38-10",
+    "title": "机器人工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "ji-qi-ren-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-38-12",
+    "title": "数据安全工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shu-ju-an-quan-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-02-38-13",
+    "title": "密码工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "mi-ma-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-03-01-00",
+    "title": "土壤肥料技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "tu-rang-fei-liao-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-03-03-00",
+    "title": "植物保护技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhi-wu-bao-hu-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-03-04-00",
+    "title": "园艺技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "yuan-yi-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-03-06-01",
+    "title": "兽医 从事宠物疾病诊断",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shou-yi-cong-shi-chong-wu-ji-bing-zhen-duan"
+  },
+  {
+    "code": "2-03-06-03",
+    "title": "宠物医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "chong-wu-yi-shi"
+  },
+  {
+    "code": "2-03-07-01",
+    "title": "畜牧技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "xu-mu-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-03-07-02",
+    "title": "草业技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "cao-ye-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-03-08-02",
+    "title": "渔业资源开发利用技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "yu-ye-zi-yuan-kai-fa-li-yong-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-03-09-00",
+    "title": "农业工程技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "nong-ye-gong-cheng-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-04-01-01",
+    "title": "飞行驾驶员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "fei-xing-jia-shi-yuan"
+  },
+  {
+    "code": "2-04-01-03",
+    "title": "飞行领航员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "fei-xing-ling-hang-yuan"
+  },
+  {
+    "code": "2-04-01-04",
+    "title": "飞行通信员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "fei-xing-tong-xin-yuan"
+  },
+  {
+    "code": "2-04-02-02",
+    "title": "轮机部技术人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "lun-ji-bu-ji-shu-ren-yuan"
+  },
+  {
+    "code": "2-05-01-03",
+    "title": "儿科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "er-ke-yi-shi"
+  },
+  {
+    "code": "2-05-01-04",
+    "title": "妇产科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "fu-chan-ke-yi-shi"
+  },
+  {
+    "code": "2-05-01-06",
+    "title": "耳鼻咽喉科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "er-bi-yan-hou-ke-yi-shi"
+  },
+  {
+    "code": "2-05-01-07",
+    "title": "口腔科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "kou-qiang-ke-yi-shi"
+  },
+  {
+    "code": "2-05-01-09",
+    "title": "精神科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "jing-shen-ke-yi-shi"
+  },
+  {
+    "code": "2-05-01-11",
+    "title": "急诊科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "ji-zhen-ke-yi-shi"
+  },
+  {
+    "code": "2-05-01-12",
+    "title": "康复科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "kang-fu-ke-yi-shi"
+  },
+  {
+    "code": "2-05-01-13",
+    "title": "麻醉科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "ma-zui-ke-yi-shi"
+  },
+  {
+    "code": "2-05-01-14",
+    "title": "病理科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "bing-li-ke-yi-shi"
+  },
+  {
+    "code": "2-05-01-15",
+    "title": "放射科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "fang-she-ke-yi-shi"
+  },
+  {
+    "code": "2-05-01-16",
+    "title": "核医学科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "he-yi-xue-ke-yi-shi"
+  },
+  {
+    "code": "2-05-01-17",
+    "title": "超声科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "chao-sheng-ke-yi-shi"
+  },
+  {
+    "code": "2-05-01-20",
+    "title": "医学遗传科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "yi-xue-yi-chuan-ke-yi-shi"
+  },
+  {
+    "code": "2-05-01-21",
+    "title": "妇幼保健医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "fu-you-bao-jian-yi-shi"
+  },
+  {
+    "code": "2-05-01-25",
+    "title": "职业病科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhi-ye-bing-ke-yi-shi"
+  },
+  {
+    "code": "2-05-02-03",
+    "title": "中医妇科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhong-yi-fu-ke-yi-shi"
+  },
+  {
+    "code": "2-05-02-04",
+    "title": "中医儿科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhong-yi-er-ke-yi-shi"
+  },
+  {
+    "code": "2-05-02-05",
+    "title": "中医眼科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhong-yi-yan-ke-yi-shi"
+  },
+  {
+    "code": "2-05-02-07",
+    "title": "中医骨伤科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhong-yi-gu-shang-ke-yi-shi"
+  },
+  {
+    "code": "2-05-02-08",
+    "title": "中医肛肠科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhong-yi-gang-chang-ke-yi-shi"
+  },
+  {
+    "code": "2-05-02-09",
+    "title": "中医耳鼻咽喉科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhong-yi-er-bi-yan-hou-ke-yi-shi"
+  },
+  {
+    "code": "2-05-02-11",
+    "title": "中医推拿医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhong-yi-tui-na-yi-shi"
+  },
+  {
+    "code": "2-05-02-12",
+    "title": "中医营养医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhong-yi-ying-yang-yi-shi"
+  },
+  {
+    "code": "2-05-02-16",
+    "title": "中医亚健康医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhong-yi-ya-jian-kang-yi-shi"
+  },
+  {
+    "code": "2-05-03-03",
+    "title": "中西医结合妇科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhong-xi-yi-jie-he-fu-ke-yi-shi"
+  },
+  {
+    "code": "2-05-03-04",
+    "title": "中西医结合儿科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhong-xi-yi-jie-he-er-ke-yi-shi"
+  },
+  {
+    "code": "2-05-03-05",
+    "title": "中西医结合骨伤科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhong-xi-yi-jie-he-gu-shang-ke-yi-shi"
+  },
+  {
+    "code": "2-05-03-07",
+    "title": "中西医结合皮肤与性病科医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhong-xi-yi-jie-he-pi-fu-yu-xing-bing-ke-yi-shi"
+  },
+  {
+    "code": "2-05-04-00",
+    "title": "民族医医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "min-zu-yi-yi-shi"
+  },
+  {
+    "code": "2-05-05-02",
+    "title": "健康教育医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "jian-kang-jiao-yu-yi-shi"
+  },
+  {
+    "code": "2-05-05-03",
+    "title": "公共卫生医师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "gong-gong-wei-sheng-yi-shi"
+  },
+  {
+    "code": "2-05-06-02",
+    "title": "中药师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhong-yao-shi"
+  },
+  {
+    "code": "2-05-06-03",
+    "title": "民族药师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "min-zu-yao-shi"
+  },
+  {
+    "code": "2-05-07-01",
+    "title": "影像技师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "ying-xiang-ji-shi"
+  },
+  {
+    "code": "2-05-07-02",
+    "title": "口腔医学技师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "kou-qiang-yi-xue-ji-shi"
+  },
+  {
+    "code": "2-05-07-03",
+    "title": "病理技师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "bing-li-ji-shi"
+  },
+  {
+    "code": "2-05-07-06",
+    "title": "卫生工程技师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "wei-sheng-gong-cheng-ji-shi"
+  },
+  {
+    "code": "2-05-07-07",
+    "title": "输血技师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shu-xue-ji-shi"
+  },
+  {
+    "code": "2-05-07-08",
+    "title": "临床营养技师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "lin-chuang-ying-yang-ji-shi"
+  },
+  {
+    "code": "2-05-07-12",
+    "title": "神经电生理脑电图技师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shen-jing-dian-sheng-li-nao-dian-tu-ji-shi"
+  },
+  {
+    "code": "2-05-07-13",
+    "title": "心理治疗技师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "xin-li-zhi-liao-ji-shi"
+  },
+  {
+    "code": "2-05-08-01",
+    "title": "内科护士",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "nei-ke-hu-shi"
+  },
+  {
+    "code": "2-05-08-02",
+    "title": "儿科护士",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "er-ke-hu-shi"
+  },
+  {
+    "code": "2-05-08-03",
+    "title": "急诊护士",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "ji-zhen-hu-shi"
+  },
+  {
+    "code": "2-05-08-06",
+    "title": "助产士",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhu-chan-shi"
+  },
+  {
+    "code": "2-05-08-07",
+    "title": "口腔科护士",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "kou-qiang-ke-hu-shi"
+  },
+  {
+    "code": "2-05-09-00",
+    "title": "乡村医生",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "xiang-cun-yi-sheng"
+  },
+  {
+    "code": "2-06-01-01",
+    "title": "经济规划专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "jing-ji-gui-hua-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-01-04",
+    "title": "易货经济专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "yi-huo-jing-ji-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-02-00",
+    "title": "统计专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "tong-ji-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-04-00",
+    "title": "审计专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shen-ji-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-05-00",
+    "title": "税务专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shui-wu-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-06-02",
+    "title": "房地产估价专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "fang-di-chan-gu-jia-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-06-03",
+    "title": "森林资源评估专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "sen-lin-zi-yuan-ping-gu-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-06-04",
+    "title": "矿业权评估专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "kuang-ye-quan-ping-gu-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-07-01",
+    "title": "国际商务专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "guo-ji-shang-wu-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-07-02",
+    "title": "市场营销专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shi-chang-ying-xiao-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-07-06",
+    "title": "房地产开发专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "fang-di-chan-kai-fa-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-07-07",
+    "title": "医药代表",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "yi-yao-dai-biao"
+  },
+  {
+    "code": "2-06-07-08",
+    "title": "管理咨询专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "guan-li-zi-xun-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-07-11",
+    "title": "经纪与代理专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "jing-ji-yu-dai-li-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-07-12",
+    "title": "报关人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "bao-guan-ren-yuan"
+  },
+  {
+    "code": "2-06-07-14",
+    "title": "企业合规师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "qi-ye-he-gui-shi"
+  },
+  {
+    "code": "2-06-07-15",
+    "title": "招标采购专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhao-biao-cai-gou-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-07-16",
+    "title": "技术经理人",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "ji-shu-jing-li-ren"
+  },
+  {
+    "code": "2-06-08-01",
+    "title": "人力资源管理专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "ren-li-zi-yuan-guan-li-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-08-02",
+    "title": "人力资源服务专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "ren-li-zi-yuan-fu-wu-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-09-01",
+    "title": "银行国库业务专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "yin-hang-guo-ku-ye-wu-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-09-03",
+    "title": "银行清算专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "yin-hang-qing-suan-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-09-06",
+    "title": "公司金融顾问",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "gong-si-jin-rong-gu-wen"
+  },
+  {
+    "code": "2-06-10-02",
+    "title": "保险核保专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "bao-xian-he-bao-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-10-03",
+    "title": "保险理赔专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "bao-xian-li-pei-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-11-02",
+    "title": "证券交易专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zheng-quan-jiao-yi-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-11-03",
+    "title": "证券投资专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zheng-quan-tou-zi-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-11-07",
+    "title": "基金专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "ji-jin-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-12-03",
+    "title": "专利管理专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhuan-li-guan-li-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-12-04",
+    "title": "知识产权信息分析专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhi-shi-chan-quan-xin-xi-fen-xi-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-12-05",
+    "title": "版权专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "ban-quan-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-12-08",
+    "title": "商标管理专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shang-biao-guan-li-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-06-13-00",
+    "title": "医保经办专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "yi-bao-jing-ban-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-07-02-00",
+    "title": "法官",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "fa-guan"
+  },
+  {
+    "code": "2-07-03-00",
+    "title": "检察官",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "jian-cha-guan"
+  },
+  {
+    "code": "2-07-04-00",
+    "title": "律师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "lv-shi"
+  },
+  {
+    "code": "2-07-05-00",
+    "title": "公证员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "gong-zheng-yuan"
+  },
+  {
+    "code": "2-07-07-00",
+    "title": "审判辅助人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shen-pan-fu-zhu-ren-yuan"
+  },
+  {
+    "code": "2-07-08-00",
+    "title": "法律顾问",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "fa-lv-gu-wen"
+  },
+  {
+    "code": "2-07-10-01",
+    "title": "社会工作者",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "she-hui-gong-zuo-zhe"
+  },
+  {
+    "code": "2-07-10-02",
+    "title": "社会组织专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "she-hui-zu-zhi-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-08-01-01",
+    "title": "普通高等学校教师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "pu-tong-gao-deng-xue-xiao-jiao-shi"
+  },
+  {
+    "code": "2-08-02-01",
+    "title": "高级中学教师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "gao-ji-zhong-xue-jiao-shi"
+  },
+  {
+    "code": "2-08-02-02",
+    "title": "中等职业学校教师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhong-deng-zhi-ye-xue-xiao-jiao-shi"
+  },
+  {
+    "code": "2-09-01-01",
+    "title": "文学作家",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "wen-xue-zuo-jia"
+  },
+  {
+    "code": "2-09-01-02",
+    "title": "曲艺作家",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "qu-yi-zuo-jia"
+  },
+  {
+    "code": "2-09-01-03",
+    "title": "剧作家",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "ju-zuo-jia"
+  },
+  {
+    "code": "2-09-01-07",
+    "title": "舞蹈编导",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "wu-dao-bian-dao"
+  },
+  {
+    "code": "2-09-01-08",
+    "title": "舞美设计",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "wu-mei-she-ji"
+  },
+  {
+    "code": "2-09-02-02",
+    "title": "电影电视演员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "dian-ying-dian-shi-yan-yuan"
+  },
+  {
+    "code": "2-09-02-03",
+    "title": "戏剧戏曲演员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "xi-ju-xi-qu-yan-yuan"
+  },
+  {
+    "code": "2-09-02-04",
+    "title": "舞蹈演员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "wu-dao-yan-yuan"
+  },
+  {
+    "code": "2-09-02-08",
+    "title": "皮影戏木偶戏演员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "pi-ying-xi-mu-ou-xi-yan-yuan"
+  },
+  {
+    "code": "2-09-02-09",
+    "title": "民族乐器演奏员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "min-zu-yue-qi-yan-zou-yuan"
+  },
+  {
+    "code": "2-09-03-02",
+    "title": "电影电视场记",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "dian-ying-dian-shi-chang-ji"
+  },
+  {
+    "code": "2-09-03-03",
+    "title": "电影电视摄影师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "dian-ying-dian-shi-she-ying-shi"
+  },
+  {
+    "code": "2-09-03-04",
+    "title": "电影电视片发行人",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "dian-ying-dian-shi-pian-fa-xing-ren"
+  },
+  {
+    "code": "2-09-03-05",
+    "title": "电视导播",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "dian-shi-dao-bo"
+  },
+  {
+    "code": "2-09-03-06",
+    "title": "剪辑师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "jian-ji-shi"
+  },
+  {
+    "code": "2-09-04-01",
+    "title": "灯光师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "deng-guang-shi"
+  },
+  {
+    "code": "2-09-04-06",
+    "title": "服装道具师",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "fu-zhuang-dao-ju-shi"
+  },
+  {
+    "code": "2-09-04-07",
+    "title": "演出监督",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "yan-chu-jian-du"
+  },
+  {
+    "code": "2-09-05-02",
+    "title": "篆刻家",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhuan-ke-jia"
+  },
+  {
+    "code": "2-09-05-03",
+    "title": "雕塑家",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "diao-su-jia"
+  },
+  {
+    "code": "2-09-05-04",
+    "title": "书法家",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shu-fa-jia"
+  },
+  {
+    "code": "2-09-06-02",
+    "title": "服装设计人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "fu-zhuang-she-ji-ren-yuan"
+  },
+  {
+    "code": "2-09-06-03",
+    "title": "动画设计人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "dong-hua-she-ji-ren-yuan"
+  },
+  {
+    "code": "2-09-06-04",
+    "title": "环境设计人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "huan-jing-she-ji-ren-yuan"
+  },
+  {
+    "code": "2-09-06-06",
+    "title": "工艺美术专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "gong-yi-mei-shu-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-09-06-07",
+    "title": "数字媒体艺术专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shu-zi-mei-ti-yi-shu-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-09-06-08",
+    "title": "公共艺术专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "gong-gong-yi-shu-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-09-07-01",
+    "title": "教练员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "jiao-lian-yuan"
+  },
+  {
+    "code": "2-09-07-02",
+    "title": "裁判员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "cai-pan-yuan"
+  },
+  {
+    "code": "2-09-07-03",
+    "title": "运动员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "yun-dong-yuan"
+  },
+  {
+    "code": "2-10-01-01",
+    "title": "文字记者",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "wen-zi-ji-zhe"
+  },
+  {
+    "code": "2-10-02-01",
+    "title": "文字编辑",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "wen-zi-bian-ji"
+  },
+  {
+    "code": "2-10-02-02",
+    "title": "美术编辑",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "mei-shu-bian-ji"
+  },
+  {
+    "code": "2-10-02-03",
+    "title": "技术编辑",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "ji-shu-bian-ji"
+  },
+  {
+    "code": "2-10-02-04",
+    "title": "数字出版编辑",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shu-zi-chu-ban-bian-ji"
+  },
+  {
+    "code": "2-10-02-05",
+    "title": "网络编辑",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "wang-luo-bian-ji"
+  },
+  {
+    "code": "2-10-03-00",
+    "title": "校对员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "jiao-dui-yuan"
+  },
+  {
+    "code": "2-10-04-01",
+    "title": "言文字间信息转换的专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "yan-wen-zi-jian-xin-xi-zhuan-huan-de-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-10-04-02",
+    "title": "主要工作任务",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "zhu-yao-gong-zuo-ren-wu"
+  },
+  {
+    "code": "2-10-05-01",
+    "title": "翻译",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "fan-yi"
+  },
+  {
+    "code": "2-10-05-02",
+    "title": "手语翻译",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "shou-yu-fan-yi"
+  },
+  {
+    "code": "2-10-06-01",
+    "title": "文献信息专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "wen-xian-xin-xi-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-10-08-01",
+    "title": "考古专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "kao-gu-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-10-08-04",
+    "title": "不可移动文物保护专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "bu-ke-yi-dong-wen-wu-bao-hu-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "2-10-08-05",
+    "title": "文物展陈专业人员",
+    "category": "专业技术人员",
+    "sub_category": "",
+    "slug": "wen-wu-zhan-chen-zhuan-ye-ren-yuan"
+  },
+  {
+    "code": "3-01-01-01",
+    "title": "行政办事员",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "xing-zheng-ban-shi-yuan"
+  },
+  {
+    "code": "3-01-01-02",
+    "title": "政务服务办事员",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "zheng-wu-fu-wu-ban-shi-yuan"
+  },
+  {
+    "code": "3-01-01-03",
+    "title": "统计调查员",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "tong-ji-diao-cha-yuan"
+  },
+  {
+    "code": "3-01-01-04",
+    "title": "社团会员管理员",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "she-tuan-hui-yuan-guan-li-yuan"
+  },
+  {
+    "code": "3-01-02-01",
+    "title": "机要员",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "ji-yao-yuan"
+  },
+  {
+    "code": "3-01-02-06",
+    "title": "速录师",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "su-lu-shi"
+  },
+  {
+    "code": "3-01-02-07",
+    "title": "制图员",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "zhi-tu-yuan"
+  },
+  {
+    "code": "3-01-02-08",
+    "title": "后勤管理员",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "hou-qin-guan-li-yuan"
+  },
+  {
+    "code": "3-01-03-03",
+    "title": "农村土地承包仲裁员",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "nong-cun-tu-di-cheng-bao-zhong-cai-yuan"
+  },
+  {
+    "code": "3-01-04-02",
+    "title": "城市管理网格员",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "cheng-shi-guan-li-wang-ge-yuan"
+  },
+  {
+    "code": "3-01-04-03",
+    "title": "劳动保障协理员",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "lao-dong-bao-zhang-xie-li-yuan"
+  },
+  {
+    "code": "3-01-04-04",
+    "title": "退役军人事务员",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "tui-yi-jun-ren-shi-wu-yuan"
+  },
+  {
+    "code": "3-02-01-00",
+    "title": "人民警察",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "ren-min-jing-cha"
+  },
+  {
+    "code": "3-02-02-00",
+    "title": "保卫管理员",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "bao-wei-guan-li-yuan"
+  },
+  {
+    "code": "3-02-02-02",
+    "title": "辅警 本小类包括下列职业",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "fu-jing-ben-xiao-lei-bao-kuo-xia-lie-zhi-ye"
+  },
+  {
+    "code": "3-02-03-02",
+    "title": "消防指挥员",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "xiao-fang-zhi-hui-yuan"
+  },
+  {
+    "code": "3-02-03-03",
+    "title": "消防装备管理员",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "xiao-fang-zhuang-bei-guan-li-yuan"
+  },
+  {
+    "code": "3-02-03-05",
+    "title": "消防监督检查员",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "xiao-fang-jian-du-jian-cha-yuan"
+  },
+  {
+    "code": "3-02-03-06",
+    "title": "森林消防员",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "sen-lin-xiao-fang-yuan"
+  },
+  {
+    "code": "3-02-03-07",
+    "title": "森林火情瞭望观察员",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "sen-lin-huo-qing-liao-wang-guan-cha-yuan"
+  },
+  {
+    "code": "3-03-01-01",
+    "title": "仲裁员",
+    "category": "办事人员和有关人员",
+    "sub_category": "",
+    "slug": "zhong-cai-yuan"
+  },
+  {
+    "code": "4-01-01-00",
+    "title": "采购员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "cai-gou-yuan"
+  },
+  {
+    "code": "4-01-02-06",
+    "title": "连锁经营管理师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "lian-suo-jing-ying-guan-li-shi"
+  },
+  {
+    "code": "4-01-03-02",
+    "title": "粮油竞价交易员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "liang-you-jing-jia-jiao-yi-yuan"
+  },
+  {
+    "code": "4-01-03-03",
+    "title": "易货师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "yi-huo-shi"
+  },
+  {
+    "code": "4-01-05-01",
+    "title": "农产品购销员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "nong-chan-pin-gou-xiao-yuan"
+  },
+  {
+    "code": "4-01-05-04",
+    "title": "烟草制品购销员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "yan-cao-zhi-pin-gou-xiao-yuan"
+  },
+  {
+    "code": "4-01-06-02",
+    "title": "互联网营销师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "hu-lian-wang-ying-xiao-shi"
+  },
+  {
+    "code": "4-02-01-01",
+    "title": "轨道交通列车司机",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "gui-dao-jiao-tong-lie-che-si-ji"
+  },
+  {
+    "code": "4-02-01-02",
+    "title": "铁路列车乘务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "tie-lu-lie-che-cheng-wu-yuan"
+  },
+  {
+    "code": "4-02-01-03",
+    "title": "铁路车站客运服务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "tie-lu-che-zhan-ke-yun-fu-wu-yuan"
+  },
+  {
+    "code": "4-02-01-06",
+    "title": "轨道交通调度员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "gui-dao-jiao-tong-diao-du-yuan"
+  },
+  {
+    "code": "4-02-01-07",
+    "title": "城市轨道交通服务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "cheng-shi-gui-dao-jiao-tong-fu-wu-yuan"
+  },
+  {
+    "code": "4-02-02-02",
+    "title": "道路货运汽车驾驶员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "dao-lu-huo-yun-qi-che-jia-shi-yuan"
+  },
+  {
+    "code": "4-02-02-03",
+    "title": "道路客运服务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "dao-lu-ke-yun-fu-wu-yuan"
+  },
+  {
+    "code": "4-02-02-05",
+    "title": "道路运输调度员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "dao-lu-yun-shu-diao-du-yuan"
+  },
+  {
+    "code": "4-02-02-07",
+    "title": "机动车驾驶教练员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ji-dong-che-jia-shi-jiao-lian-yuan"
+  },
+  {
+    "code": "4-02-02-08",
+    "title": "油气电站操作员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "you-qi-dian-zhan-cao-zuo-yuan"
+  },
+  {
+    "code": "4-02-03-02",
+    "title": "船舶业务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "chuan-bo-ye-wu-yuan"
+  },
+  {
+    "code": "4-02-03-03",
+    "title": "港口客运员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "gang-kou-ke-yun-yuan"
+  },
+  {
+    "code": "4-02-04-01",
+    "title": "民航乘务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "min-hang-cheng-wu-yuan"
+  },
+  {
+    "code": "4-02-04-04",
+    "title": "航空安全员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "hang-kong-an-quan-yuan"
+  },
+  {
+    "code": "4-02-04-05",
+    "title": "机场场务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ji-chang-chang-wu-yuan"
+  },
+  {
+    "code": "4-02-05-02",
+    "title": "客运售票员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ke-yun-shou-piao-yuan"
+  },
+  {
+    "code": "4-02-05-03",
+    "title": "货运代理服务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "huo-yun-dai-li-fu-wu-yuan"
+  },
+  {
+    "code": "4-02-06-02",
+    "title": "理货员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "li-huo-yuan"
+  },
+  {
+    "code": "4-02-06-05",
+    "title": "供应链管理师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "gong-ying-lian-guan-li-shi"
+  },
+  {
+    "code": "4-02-07-02",
+    "title": "邮件分拣员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "you-jian-fen-jian-yuan"
+  },
+  {
+    "code": "4-02-07-03",
+    "title": "邮件转运员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "you-jian-zhuan-yun-yuan"
+  },
+  {
+    "code": "4-02-07-06",
+    "title": "集邮业务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ji-you-ye-wu-yuan"
+  },
+  {
+    "code": "4-02-07-07",
+    "title": "邮政市场业务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "you-zheng-shi-chang-ye-wu-yuan"
+  },
+  {
+    "code": "4-02-07-09",
+    "title": "快件处理员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "kuai-jian-chu-li-yuan"
+  },
+  {
+    "code": "4-02-07-10",
+    "title": "国际快递业务师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "guo-ji-kuai-di-ye-wu-shi"
+  },
+  {
+    "code": "4-03-01-01",
+    "title": "前厅服务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "qian-ting-fu-wu-yuan"
+  },
+  {
+    "code": "4-03-01-02",
+    "title": "客房服务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ke-fang-fu-wu-yuan"
+  },
+  {
+    "code": "4-03-02-01",
+    "title": "中式烹调师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "zhong-shi-peng-tiao-shi"
+  },
+  {
+    "code": "4-03-02-04",
+    "title": "西式面点师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "xi-shi-mian-dian-shi"
+  },
+  {
+    "code": "4-03-02-05",
+    "title": "餐厅服务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "can-ting-fu-wu-yuan"
+  },
+  {
+    "code": "4-03-02-06",
+    "title": "营养配餐员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ying-yang-pei-can-yuan"
+  },
+  {
+    "code": "4-03-02-09",
+    "title": "调酒师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "diao-jiu-shi"
+  },
+  {
+    "code": "4-03-02-10",
+    "title": "调饮师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "diao-yin-shi"
+  },
+  {
+    "code": "4-03-02-13",
+    "title": "宴会定制服务师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "yan-hui-ding-zhi-fu-wu-shi"
+  },
+  {
+    "code": "4-04-01-01",
+    "title": "信息通信营业员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "xin-xi-tong-xin-ying-ye-yuan"
+  },
+  {
+    "code": "4-04-01-02",
+    "title": "信息通信业务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "xin-xi-tong-xin-ye-wu-yuan"
+  },
+  {
+    "code": "4-04-02-02",
+    "title": "信息通信网络线务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "xin-xi-tong-xin-wang-luo-xian-wu-yuan"
+  },
+  {
+    "code": "4-04-02-03",
+    "title": "信息通信网络动力机务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "xin-xi-tong-xin-wang-luo-dong-li-ji-wu-yuan"
+  },
+  {
+    "code": "4-04-03-01",
+    "title": "广播电视天线工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "guang-bo-dian-shi-tian-xian-gong"
+  },
+  {
+    "code": "4-04-04-01",
+    "title": "信息通信网络运行管理员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "xin-xi-tong-xin-wang-luo-yun-xing-guan-li-yuan"
+  },
+  {
+    "code": "4-04-04-02",
+    "title": "网络与信息安全管理员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "wang-luo-yu-xin-xi-an-quan-guan-li-yuan"
+  },
+  {
+    "code": "4-04-04-04",
+    "title": "信息安全测试员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "xin-xi-an-quan-ce-shi-yuan"
+  },
+  {
+    "code": "4-04-04-05",
+    "title": "数字化解决方案设计师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "shu-zi-hua-jie-jue-fang-an-she-ji-shi"
+  },
+  {
+    "code": "4-04-05-01",
+    "title": "计算机程序设计员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ji-suan-ji-cheng-xu-she-ji-yuan"
+  },
+  {
+    "code": "4-04-05-02",
+    "title": "计算机软件测试员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ji-suan-ji-ruan-jian-ce-shi-yuan"
+  },
+  {
+    "code": "4-04-05-05",
+    "title": "人工智能训练师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ren-gong-zhi-neng-xun-lian-shi"
+  },
+  {
+    "code": "4-04-05-06",
+    "title": "区块链应用操作员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "qu-kuai-lian-ying-yong-cao-zuo-yuan"
+  },
+  {
+    "code": "4-04-05-07",
+    "title": "服务机器人应用技术员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "fu-wu-ji-qi-ren-ying-yong-ji-shu-yuan"
+  },
+  {
+    "code": "4-04-05-10",
+    "title": "数字孪生应用技术员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "shu-zi-luan-sheng-ying-yong-ji-shu-yuan"
+  },
+  {
+    "code": "4-05-01-01",
+    "title": "银行综合柜员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "yin-hang-zong-he-gui-yuan"
+  },
+  {
+    "code": "4-05-01-02",
+    "title": "银行信贷员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "yin-hang-xin-dai-yuan"
+  },
+  {
+    "code": "4-05-01-04",
+    "title": "银行信用卡业务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "yin-hang-xin-yong-ka-ye-wu-yuan"
+  },
+  {
+    "code": "4-05-03-01",
+    "title": "保险代理人",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "bao-xian-dai-li-ren"
+  },
+  {
+    "code": "4-05-03-02",
+    "title": "保险保全员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "bao-xian-bao-quan-yuan"
+  },
+  {
+    "code": "4-05-03-03",
+    "title": "保险公估人",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "bao-xian-gong-gu-ren"
+  },
+  {
+    "code": "4-05-04-02",
+    "title": "鉴定估价师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "jian-ding-gu-jia-shi"
+  },
+  {
+    "code": "4-05-05-01",
+    "title": "信托业务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "xin-tuo-ye-wu-yuan"
+  },
+  {
+    "code": "4-06-01-01",
+    "title": "物业管理师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "wu-ye-guan-li-shi"
+  },
+  {
+    "code": "4-06-01-04",
+    "title": "智能楼宇管理员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "zhi-neng-lou-yu-guan-li-yuan"
+  },
+  {
+    "code": "4-06-02-02",
+    "title": "房地产策划师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "fang-di-chan-ce-hua-shi"
+  },
+  {
+    "code": "4-07-01-02",
+    "title": "拍卖服务师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "pai-mai-fu-wu-shi"
+  },
+  {
+    "code": "4-07-02-01",
+    "title": "风险管理师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "feng-xian-guan-li-shi"
+  },
+  {
+    "code": "4-07-02-03",
+    "title": "客户服务管理员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ke-hu-fu-wu-guan-li-yuan"
+  },
+  {
+    "code": "4-07-02-04",
+    "title": "信用管理师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "xin-yong-guan-li-shi"
+  },
+  {
+    "code": "4-07-03-01",
+    "title": "职业指导师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "zhi-ye-zhi-dao-shi"
+  },
+  {
+    "code": "4-07-03-04",
+    "title": "企业人力资源管理师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "qi-ye-ren-li-zi-yuan-guan-li-shi"
+  },
+  {
+    "code": "4-07-03-05",
+    "title": "职业培训师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "zhi-ye-pei-xun-shi"
+  },
+  {
+    "code": "4-07-04-01",
+    "title": "导游 境外滞留不归等情况",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "dao-you-jing-wai-zhi-liu-bu-gui-deng-qing-kuang"
+  },
+  {
+    "code": "4-07-04-04",
+    "title": "旅游咨询员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "lv-you-zi-xun-yuan"
+  },
+  {
+    "code": "4-07-04-05",
+    "title": "公共游览场所服务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "gong-gong-you-lan-chang-suo-fu-wu-yuan"
+  },
+  {
+    "code": "4-07-05-01",
+    "title": "保安员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "bao-an-yuan"
+  },
+  {
+    "code": "4-07-05-02",
+    "title": "安检员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "an-jian-yuan"
+  },
+  {
+    "code": "4-07-06-01",
+    "title": "商品监督员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "shang-pin-jian-du-yuan"
+  },
+  {
+    "code": "4-07-06-02",
+    "title": "商品防损员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "shang-pin-fang-sun-yuan"
+  },
+  {
+    "code": "4-07-07-01",
+    "title": "会展服务师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "hui-zhan-fu-wu-shi"
+  },
+  {
+    "code": "4-07-07-02",
+    "title": "装饰美工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "zhuang-shi-mei-gong"
+  },
+  {
+    "code": "4-08-01-01",
+    "title": "航空气象员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "hang-kong-qi-xiang-yuan"
+  },
+  {
+    "code": "4-08-02-01",
+    "title": "海洋水文气象观测员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "hai-yang-shui-wen-qi-xiang-guan-ce-yuan"
+  },
+  {
+    "code": "4-08-02-04",
+    "title": "海洋生物调查员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "hai-yang-sheng-wu-diao-cha-yuan"
+  },
+  {
+    "code": "4-08-03-01",
+    "title": "大地测量员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "da-di-ce-liang-yuan"
+  },
+  {
+    "code": "4-08-03-03",
+    "title": "地图绘制员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "di-tu-hui-zhi-yuan"
+  },
+  {
+    "code": "4-08-03-06",
+    "title": "海洋测绘员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "hai-yang-ce-hui-yuan"
+  },
+  {
+    "code": "4-08-03-07",
+    "title": "无人机测绘操控员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "wu-ren-ji-ce-hui-cao-kong-yuan"
+  },
+  {
+    "code": "4-08-04-02",
+    "title": "地理信息处理员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "di-li-xin-xi-chu-li-yuan"
+  },
+  {
+    "code": "4-08-04-03",
+    "title": "地理信息应用作业员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "di-li-xin-xi-ying-yong-zuo-ye-yuan"
+  },
+  {
+    "code": "4-08-05-02",
+    "title": "纤维检验员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "xian-wei-jian-yan-yuan"
+  },
+  {
+    "code": "4-08-05-04",
+    "title": "药物检验员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "yao-wu-jian-yan-yuan"
+  },
+  {
+    "code": "4-08-05-05",
+    "title": "机动车检测工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ji-dong-che-jian-ce-gong"
+  },
+  {
+    "code": "4-08-05-06",
+    "title": "计量员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ji-liang-yuan"
+  },
+  {
+    "code": "4-08-05-08",
+    "title": "公路水运工程试验检测员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "gong-lu-shui-yun-gong-cheng-shi-yan-jian-ce-yuan"
+  },
+  {
+    "code": "4-08-06-00",
+    "title": "环境监测员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "huan-jing-jian-ce-yuan"
+  },
+  {
+    "code": "4-08-07-01",
+    "title": "地勘钻探工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "di-kan-zuan-tan-gong"
+  },
+  {
+    "code": "4-08-07-02",
+    "title": "地勘掘进工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "di-kan-jue-jin-gong"
+  },
+  {
+    "code": "4-08-07-03",
+    "title": "物探工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "wu-tan-gong"
+  },
+  {
+    "code": "4-08-07-04",
+    "title": "地质调查员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "di-zhi-diao-cha-yuan"
+  },
+  {
+    "code": "4-08-08-03",
+    "title": "家用纺织品设计师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "jia-yong-fang-zhi-pin-she-ji-shi"
+  },
+  {
+    "code": "4-08-08-04",
+    "title": "色彩搭配师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "se-cai-da-pei-shi"
+  },
+  {
+    "code": "4-08-08-07",
+    "title": "室内装饰设计师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "shi-nei-zhuang-shi-she-ji-shi"
+  },
+  {
+    "code": "4-08-08-08",
+    "title": "广告设计师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "guang-gao-she-ji-shi"
+  },
+  {
+    "code": "4-08-08-11",
+    "title": "首饰设计师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "shou-shi-she-ji-shi"
+  },
+  {
+    "code": "4-08-08-12",
+    "title": "家具设计师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "jia-ju-she-ji-shi"
+  },
+  {
+    "code": "4-08-08-13",
+    "title": "陶瓷产品设计师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "tao-ci-chan-pin-she-ji-shi"
+  },
+  {
+    "code": "4-08-08-17",
+    "title": "鞋类设计师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "xie-lei-she-ji-shi"
+  },
+  {
+    "code": "4-08-08-18",
+    "title": "灯具设计师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "deng-ju-she-ji-shi"
+  },
+  {
+    "code": "4-08-08-21",
+    "title": "会展设计师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "hui-zhan-she-ji-shi"
+  },
+  {
+    "code": "4-08-08-22",
+    "title": "建筑幕墙设计师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "jian-zhu-mu-qiang-she-ji-shi"
+  },
+  {
+    "code": "4-08-08-25",
+    "title": "斫琴师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "zhuo-qin-shi"
+  },
+  {
+    "code": "4-08-08-26",
+    "title": "工业设计工艺师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "gong-ye-she-ji-gong-yi-shi"
+  },
+  {
+    "code": "4-08-09-01",
+    "title": "商业摄影师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "shang-ye-she-ying-shi"
+  },
+  {
+    "code": "4-08-10-02",
+    "title": "化工生产现场技术员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "hua-gong-sheng-chan-xian-chang-ji-shu-yuan"
+  },
+  {
+    "code": "4-09-01-01",
+    "title": "河道修防工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "he-dao-xiu-fang-gong"
+  },
+  {
+    "code": "4-09-01-02",
+    "title": "水工混凝土维修工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "shui-gong-hun-ning-tu-wei-xiu-gong"
+  },
+  {
+    "code": "4-09-01-05",
+    "title": "水工闸门运行工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "shui-gong-zha-men-yun-xing-gong"
+  },
+  {
+    "code": "4-09-02-01",
+    "title": "水文勘测工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "shui-wen-kan-ce-gong"
+  },
+  {
+    "code": "4-09-04-00",
+    "title": "灌区管理工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "guan-qu-guan-li-gong"
+  },
+  {
+    "code": "4-09-05-02",
+    "title": "草地监护员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "cao-di-jian-hu-yuan"
+  },
+  {
+    "code": "4-09-06-01",
+    "title": "野生动物保护员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ye-sheng-dong-wu-bao-hu-yuan"
+  },
+  {
+    "code": "4-09-06-02",
+    "title": "野生植物保护员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ye-sheng-zhi-wu-bao-hu-yuan"
+  },
+  {
+    "code": "4-09-06-03",
+    "title": "活动",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "huo-dong"
+  },
+  {
+    "code": "4-09-06-04",
+    "title": "展出动物保育员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "zhan-chu-dong-wu-bao-yu-yuan"
+  },
+  {
+    "code": "4-09-07-03",
+    "title": "危险废物处理工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "wei-xian-fei-wu-chu-li-gong"
+  },
+  {
+    "code": "4-09-08-01",
+    "title": "保洁员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "bao-jie-yuan"
+  },
+  {
+    "code": "4-09-09-00",
+    "title": "有害生物防制员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "you-hai-sheng-wu-fang-zhi-yuan"
+  },
+  {
+    "code": "4-09-10-02",
+    "title": "草坪园艺师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "cao-ping-yuan-yi-shi"
+  },
+  {
+    "code": "4-09-10-03",
+    "title": "盆景师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "pen-jing-shi"
+  },
+  {
+    "code": "4-10-01-01",
+    "title": "婴幼儿发展引导员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ying-you-er-fa-zhan-yin-dao-yuan"
+  },
+  {
+    "code": "4-10-01-03",
+    "title": "保育师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "bao-yu-shi"
+  },
+  {
+    "code": "4-10-01-04",
+    "title": "孤残儿童护理员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "gu-can-er-tong-hu-li-yuan"
+  },
+  {
+    "code": "4-10-02-01",
+    "title": "裁缝 色的温度",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "cai-feng-se-de-wen-du"
+  },
+  {
+    "code": "4-10-02-04",
+    "title": "皮革护理师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "pi-ge-hu-li-shi"
+  },
+  {
+    "code": "4-10-02-05",
+    "title": "织补师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "zhi-bu-shi"
+  },
+  {
+    "code": "4-10-03-03",
+    "title": "美甲师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "mei-jia-shi"
+  },
+  {
+    "code": "4-10-03-04",
+    "title": "浴池服务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "yu-chi-fu-wu-yuan"
+  },
+  {
+    "code": "4-10-04-02",
+    "title": "保健按摩师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "bao-jian-an-mo-shi"
+  },
+  {
+    "code": "4-10-05-02",
+    "title": "婚礼策划师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "hun-li-ce-hua-shi"
+  },
+  {
+    "code": "4-10-05-03",
+    "title": "婚姻家庭咨询师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "hun-yin-jia-ting-zi-xun-shi"
+  },
+  {
+    "code": "4-10-06-02",
+    "title": "遗体防腐整容师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "yi-ti-fang-fu-zheng-rong-shi"
+  },
+  {
+    "code": "4-10-06-03",
+    "title": "遗体火化师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "yi-ti-huo-hua-shi"
+  },
+  {
+    "code": "4-10-06-04",
+    "title": "公墓管理员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "gong-mu-guan-li-yuan"
+  },
+  {
+    "code": "4-10-07-02",
+    "title": "宠物驯导师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "chong-wu-xun-dao-shi"
+  },
+  {
+    "code": "4-10-07-03",
+    "title": "宠物美容师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "chong-wu-mei-rong-shi"
+  },
+  {
+    "code": "4-11-01-01",
+    "title": "供电服务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "gong-dian-fu-wu-yuan"
+  },
+  {
+    "code": "4-11-01-03",
+    "title": "综合能源服务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "zong-he-neng-yuan-fu-wu-yuan"
+  },
+  {
+    "code": "4-11-03-01",
+    "title": "水供应服务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "shui-gong-ying-fu-wu-yuan"
+  },
+  {
+    "code": "4-11-03-02",
+    "title": "村镇供水员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "cun-zhen-gong-shui-yuan"
+  },
+  {
+    "code": "4-12-01-01",
+    "title": "汽车维修工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "qi-che-wei-xiu-gong"
+  },
+  {
+    "code": "4-12-01-02",
+    "title": "摩托车修理工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "mo-tuo-che-xiu-li-gong"
+  },
+  {
+    "code": "4-12-02-01",
+    "title": "计算机维修工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ji-suan-ji-wei-xiu-gong"
+  },
+  {
+    "code": "4-12-02-02",
+    "title": "办公设备维修工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ban-gong-she-bei-wei-xiu-gong"
+  },
+  {
+    "code": "4-12-03-02",
+    "title": "家用电子产品维修工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "jia-yong-dian-zi-chan-pin-wei-xiu-gong"
+  },
+  {
+    "code": "4-12-04-03",
+    "title": "钟表维修工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "zhong-biao-wei-xiu-gong"
+  },
+  {
+    "code": "4-12-04-04",
+    "title": "锁具修理工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "suo-ju-xiu-li-gong"
+  },
+  {
+    "code": "4-12-05-01",
+    "title": "乐器维修工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "yue-qi-wei-xiu-gong"
+  },
+  {
+    "code": "4-12-05-02",
+    "title": "钢琴调律师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "gang-qin-diao-lv-shi"
+  },
+  {
+    "code": "4-13-01-01",
+    "title": "群众文化指导员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "qun-zhong-wen-hua-zhi-dao-yuan"
+  },
+  {
+    "code": "4-13-01-04",
+    "title": "文化经纪人",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "wen-hua-jing-ji-ren"
+  },
+  {
+    "code": "4-13-01-05",
+    "title": "全媒体运营师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "quan-mei-ti-yun-ying-shi"
+  },
+  {
+    "code": "4-13-01-07",
+    "title": "档案数字化管理师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "dang-an-shu-zi-hua-guan-li-shi"
+  },
+  {
+    "code": "4-13-01-08",
+    "title": "图书馆服务员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "tu-shu-guan-fu-wu-yuan"
+  },
+  {
+    "code": "4-13-02-02",
+    "title": "动画制作员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "dong-hua-zhi-zuo-yuan"
+  },
+  {
+    "code": "4-13-02-03",
+    "title": "影视烟火特效员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ying-shi-yan-huo-te-xiao-yuan"
+  },
+  {
+    "code": "4-13-02-04",
+    "title": "电影洗印员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "dian-ying-xi-yin-yuan"
+  },
+  {
+    "code": "4-13-02-07",
+    "title": "照明工",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "zhao-ming-gong"
+  },
+  {
+    "code": "4-13-02-08",
+    "title": "影视服装员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ying-shi-fu-zhuang-yuan"
+  },
+  {
+    "code": "4-13-02-09",
+    "title": "电视摄像员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "dian-shi-she-xiang-yuan"
+  },
+  {
+    "code": "4-13-04-01",
+    "title": "在线学习服务师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "zai-xian-xue-xi-fu-wu-shi"
+  },
+  {
+    "code": "4-13-04-04",
+    "title": "研学旅行指导师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "yan-xue-lv-xing-zhi-dao-shi"
+  },
+  {
+    "code": "4-14-01-02",
+    "title": "医疗护理员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "yi-liao-hu-li-yuan"
+  },
+  {
+    "code": "4-14-02-01",
+    "title": "营养师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ying-yang-shi"
+  },
+  {
+    "code": "4-14-02-03",
+    "title": "生殖健康咨询师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "sheng-zhi-jian-kang-zi-xun-shi"
+  },
+  {
+    "code": "4-14-02-04",
+    "title": "出生缺陷防控咨询师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "chu-sheng-que-xian-fang-kong-zi-xun-shi"
+  },
+  {
+    "code": "4-14-03-02",
+    "title": "口腔修复体制作师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "kou-qiang-xiu-fu-ti-zhi-zuo-shi"
+  },
+  {
+    "code": "4-14-03-05",
+    "title": "听觉口语师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ting-jue-kou-yu-shi"
+  },
+  {
+    "code": "4-14-03-06",
+    "title": "康复辅助技术咨询师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "kang-fu-fu-zhu-ji-shu-zi-xun-shi"
+  },
+  {
+    "code": "4-14-04-01",
+    "title": "防疫员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "fang-yi-yuan"
+  },
+  {
+    "code": "4-14-04-02",
+    "title": "消毒员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "xiao-du-yuan"
+  },
+  {
+    "code": "4-14-04-03",
+    "title": "公共场所卫生管理员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "gong-gong-chang-suo-wei-sheng-guan-li-yuan"
+  },
+  {
+    "code": "4-14-05-01",
+    "title": "社会体育指导员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "she-hui-ti-yu-zhi-dao-yuan"
+  },
+  {
+    "code": "4-14-05-02",
+    "title": "体育场馆管理员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ti-yu-chang-guan-guan-li-yuan"
+  },
+  {
+    "code": "4-14-05-03",
+    "title": "游泳救生员",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "you-yong-jiu-sheng-yuan"
+  },
+  {
+    "code": "4-14-05-05",
+    "title": "体育经纪人",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "ti-yu-jing-ji-ren"
+  },
+  {
+    "code": "4-14-05-06",
+    "title": "电子竞技运营师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "dian-zi-jing-ji-yun-ying-shi"
+  },
+  {
+    "code": "4-14-06-01",
+    "title": "森林园林康养师",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "sen-lin-yuan-lin-kang-yang-shi"
+  },
+  {
+    "code": "4-14-06-02",
+    "title": "民宿管家",
+    "category": "社会生产服务和生活服务人员",
+    "sub_category": "",
+    "slug": "min-su-guan-jia"
+  },
+  {
+    "code": "5-01-01-01",
+    "title": "种子繁育员",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "zhong-zi-fan-yu-yuan"
+  },
+  {
+    "code": "5-01-01-02",
+    "title": "种苗繁育员",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "zhong-miao-fan-yu-yuan"
+  },
+  {
+    "code": "5-01-02-01",
+    "title": "农艺工",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "nong-yi-gong"
+  },
+  {
+    "code": "5-01-02-03",
+    "title": "食用菌生产工",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "shi-yong-jun-sheng-chan-gong"
+  },
+  {
+    "code": "5-01-02-04",
+    "title": "热带作物栽培工",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "re-dai-zuo-wu-zai-pei-gong"
+  },
+  {
+    "code": "5-02-01-00",
+    "title": "林草种苗工",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "lin-cao-zhong-miao-gong"
+  },
+  {
+    "code": "5-02-03-01",
+    "title": "护林员",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "hu-lin-yuan"
+  },
+  {
+    "code": "5-02-03-02",
+    "title": "森林抚育工",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "sen-lin-fu-yu-gong"
+  },
+  {
+    "code": "5-03-01-01",
+    "title": "家畜繁殖员",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "jia-chu-fan-zhi-yuan"
+  },
+  {
+    "code": "5-03-02-01",
+    "title": "家畜饲养员",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "jia-chu-si-yang-yuan"
+  },
+  {
+    "code": "5-03-03-02",
+    "title": "实验动物养殖员",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "shi-yan-dong-wu-yang-zhi-yuan"
+  },
+  {
+    "code": "5-04-01-01",
+    "title": "水生动物苗种繁育工",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "shui-sheng-dong-wu-miao-zhong-fan-yu-gong"
+  },
+  {
+    "code": "5-04-02-01",
+    "title": "水生动物饲养工",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "shui-sheng-dong-wu-si-yang-gong"
+  },
+  {
+    "code": "5-04-02-02",
+    "title": "水生植物栽培工",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "shui-sheng-zhi-wu-zai-pei-gong"
+  },
+  {
+    "code": "5-04-02-03",
+    "title": "水产养殖潜水工",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "shui-chan-yang-zhi-qian-shui-gong"
+  },
+  {
+    "code": "5-04-03-03",
+    "title": "渔网具工",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "yu-wang-ju-gong"
+  },
+  {
+    "code": "5-05-01-01",
+    "title": "农业技术员",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "nong-ye-ji-shu-yuan"
+  },
+  {
+    "code": "5-05-02-01",
+    "title": "农作物植保员",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "nong-zuo-wu-zhi-bao-yuan"
+  },
+  {
+    "code": "5-05-02-04",
+    "title": "动物检疫检验员",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "dong-wu-jian-yi-jian-yan-yuan"
+  },
+  {
+    "code": "5-05-02-05",
+    "title": "水生物病害防治员",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "shui-sheng-wu-bing-hai-fang-zhi-yuan"
+  },
+  {
+    "code": "5-05-03-01",
+    "title": "沼气工",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "zhao-qi-gong"
+  },
+  {
+    "code": "5-05-03-04",
+    "title": "微水电利用工",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "wei-shui-dian-li-yong-gong"
+  },
+  {
+    "code": "5-05-03-05",
+    "title": "小风电利用工",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "xiao-feng-dian-li-yong-gong"
+  },
+  {
+    "code": "5-05-05-01",
+    "title": "农机驾驶操作员",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "nong-ji-jia-shi-cao-zuo-yuan"
+  },
+  {
+    "code": "5-05-05-02",
+    "title": "农机修理工",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "nong-ji-xiu-li-gong"
+  },
+  {
+    "code": "5-05-05-03",
+    "title": "农机服务经纪人",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "nong-ji-fu-wu-jing-ji-ren"
+  },
+  {
+    "code": "5-05-06-01",
+    "title": "园艺产品加工工",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "yuan-yi-chan-pin-jia-gong-gong"
+  },
+  {
+    "code": "5-05-06-04",
+    "title": "植物原料制取工",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "zhi-wu-yuan-liao-zhi-qu-gong"
+  },
+  {
+    "code": "5-05-06-06",
+    "title": "经济昆虫产品加工工",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "jing-ji-kun-chong-chan-pin-jia-gong-gong"
+  },
+  {
+    "code": "5-05-06-07",
+    "title": "水产品原料处理工",
+    "category": "农、林、牧、渔业生产及辅助人员",
+    "sub_category": "",
+    "slug": "shui-chan-pin-yuan-liao-chu-li-gong"
+  },
+  {
+    "code": "6-01-01-01",
+    "title": "制米工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhi-mi-gong"
+  },
+  {
+    "code": "6-01-01-02",
+    "title": "制粉工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhi-fen-gong"
+  },
+  {
+    "code": "6-01-01-03",
+    "title": "制油工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhi-you-gong"
+  },
+  {
+    "code": "6-01-02-00",
+    "title": "饲料加工工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "si-liao-jia-gong-gong"
+  },
+  {
+    "code": "6-01-03-00",
+    "title": "食糖制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shi-tang-zhi-zao-gong"
+  },
+  {
+    "code": "6-01-04-01",
+    "title": "畜禽屠宰加工工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "chu-qin-tu-zai-jia-gong-gong"
+  },
+  {
+    "code": "6-01-04-03",
+    "title": "肉制品加工工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "rou-zhi-pin-jia-gong-gong"
+  },
+  {
+    "code": "6-01-04-04",
+    "title": "蛋类制品加工工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dan-lei-zhi-pin-jia-gong-gong"
+  },
+  {
+    "code": "6-01-05-02",
+    "title": "水产制品精制工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shui-chan-zhi-pin-jing-zhi-gong"
+  },
+  {
+    "code": "6-01-06-00",
+    "title": "果蔬坚果加工工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "guo-shu-jian-guo-jia-gong-gong"
+  },
+  {
+    "code": "6-01-07-02",
+    "title": "植物蛋白制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhi-wu-dan-bai-zhi-zuo-gong"
+  },
+  {
+    "code": "6-02-01-01",
+    "title": "糕点面包烘焙工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gao-dian-mian-bao-hong-bei-gong"
+  },
+  {
+    "code": "6-02-02-01",
+    "title": "糖果巧克力制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "tang-guo-qiao-ke-li-zhi-zao-gong"
+  },
+  {
+    "code": "6-02-03-01",
+    "title": "米面主食制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "mi-mian-zhu-shi-zhi-zuo-gong"
+  },
+  {
+    "code": "6-02-03-02",
+    "title": "冷冻食品制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "leng-dong-shi-pin-zhi-zuo-gong"
+  },
+  {
+    "code": "6-02-04-01",
+    "title": "乳品加工工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ru-pin-jia-gong-gong"
+  },
+  {
+    "code": "6-02-05-01",
+    "title": "味精制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "wei-jing-zhi-zao-gong"
+  },
+  {
+    "code": "6-02-05-02",
+    "title": "酱油酱类制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jiang-you-jiang-lei-zhi-zuo-gong"
+  },
+  {
+    "code": "6-02-05-03",
+    "title": "食醋制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shi-cu-zhi-zuo-gong"
+  },
+  {
+    "code": "6-02-05-04",
+    "title": "精制制盐工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jing-zhi-zhi-yan-gong"
+  },
+  {
+    "code": "6-02-05-06",
+    "title": "柠檬酸制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ning-meng-suan-zhi-zao-gong"
+  },
+  {
+    "code": "6-02-05-07",
+    "title": "调味品品评师",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "tiao-wei-pin-pin-ping-shi"
+  },
+  {
+    "code": "6-02-06-01",
+    "title": "酿酒师",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "niang-jiu-shi"
+  },
+  {
+    "code": "6-02-06-02",
+    "title": "酒精酿造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jiu-jing-niang-zao-gong"
+  },
+  {
+    "code": "6-02-06-04",
+    "title": "啤酒酿造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "pi-jiu-niang-zao-gong"
+  },
+  {
+    "code": "6-02-06-05",
+    "title": "黄酒酿造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "huang-jiu-niang-zao-gong"
+  },
+  {
+    "code": "6-02-06-07",
+    "title": "品酒师",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "pin-jiu-shi"
+  },
+  {
+    "code": "6-02-06-08",
+    "title": "麦芽制麦工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "mai-ya-zhi-mai-gong"
+  },
+  {
+    "code": "6-02-06-10",
+    "title": "茶叶加工工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "cha-ye-jia-gong-gong"
+  },
+  {
+    "code": "6-02-06-11",
+    "title": "评茶师",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ping-cha-shi"
+  },
+  {
+    "code": "6-03-01-02",
+    "title": "烟叶评级员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yan-ye-ping-ji-yuan"
+  },
+  {
+    "code": "6-03-02-02",
+    "title": "烟用丝束制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yan-yong-si-shu-zhi-zao-gong"
+  },
+  {
+    "code": "6-03-03-01",
+    "title": "烟机设备操作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yan-ji-she-bei-cao-zuo-gong"
+  },
+  {
+    "code": "6-04-01-02",
+    "title": "丝麻毛纤维预处理工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "si-ma-mao-xian-wei-yu-chu-li-gong"
+  },
+  {
+    "code": "6-04-02-01",
+    "title": "纺纱工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "fang-sha-gong"
+  },
+  {
+    "code": "6-04-03-02",
+    "title": "浆纱浆染工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jiang-sha-jiang-ran-gong"
+  },
+  {
+    "code": "6-04-03-03",
+    "title": "织布工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhi-bu-gong"
+  },
+  {
+    "code": "6-04-04-01",
+    "title": "纬编工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "wei-bian-gong"
+  },
+  {
+    "code": "6-04-04-02",
+    "title": "经编工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jing-bian-gong"
+  },
+  {
+    "code": "6-04-06-01",
+    "title": "印染前处理工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yin-ran-qian-chu-li-gong"
+  },
+  {
+    "code": "6-04-06-03",
+    "title": "印花工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yin-hua-gong"
+  },
+  {
+    "code": "6-04-06-04",
+    "title": "纺织印花制版工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "fang-zhi-yin-hua-zhi-ban-gong"
+  },
+  {
+    "code": "6-04-06-06",
+    "title": "印染染化料配制工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yin-ran-ran-hua-liao-pei-zhi-gong"
+  },
+  {
+    "code": "6-05-01-01",
+    "title": "服装制版师",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "fu-zhuang-zhi-ban-shi"
+  },
+  {
+    "code": "6-05-01-04",
+    "title": "缝纫品整型工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "feng-ren-pin-zheng-xing-gong"
+  },
+  {
+    "code": "6-05-01-05",
+    "title": "服装水洗工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "fu-zhuang-shui-xi-gong"
+  },
+  {
+    "code": "6-05-02-02",
+    "title": "毛皮及毛皮制品加工工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "mao-pi-ji-mao-pi-zhi-pin-jia-gong-gong"
+  },
+  {
+    "code": "6-05-04-01",
+    "title": "制鞋工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhi-xie-gong"
+  },
+  {
+    "code": "6-05-04-02",
+    "title": "制帽工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhi-mao-gong"
+  },
+  {
+    "code": "6-06-01-01",
+    "title": "制材工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhi-cai-gong"
+  },
+  {
+    "code": "6-06-01-02",
+    "title": "木竹藤材处理工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "mu-zhu-teng-cai-chu-li-gong"
+  },
+  {
+    "code": "6-06-02-02",
+    "title": "纤维板工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "xian-wei-ban-gong"
+  },
+  {
+    "code": "6-06-02-03",
+    "title": "刨花板工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "bao-hua-ban-gong"
+  },
+  {
+    "code": "6-06-02-05",
+    "title": "人造板饰面工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ren-zao-ban-shi-mian-gong"
+  },
+  {
+    "code": "6-06-03-01",
+    "title": "手工木工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shou-gong-mu-gong"
+  },
+  {
+    "code": "6-06-03-02",
+    "title": "机械木工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ji-xie-mu-gong"
+  },
+  {
+    "code": "6-06-04-00",
+    "title": "家具制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jia-ju-zhi-zuo-gong"
+  },
+  {
+    "code": "6-07-01-02",
+    "title": "制浆废液回收利用工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhi-jiang-fei-ye-hui-shou-li-yong-gong"
+  },
+  {
+    "code": "6-07-02-00",
+    "title": "纸箱纸盒制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhi-xiang-zhi-he-zhi-zuo-gong"
+  },
+  {
+    "code": "6-08-01-02",
+    "title": "印刷操作员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yin-shua-cao-zuo-yuan"
+  },
+  {
+    "code": "6-08-02-00",
+    "title": "音像制品和电子出版物复制员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yin-xiang-zhi-pin-he-dian-zi-chu-ban-wu-fu-zhi-yuan"
+  },
+  {
+    "code": "6-09-01-01",
+    "title": "自来水笔制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zi-lai-shui-bi-zhi-zao-gong"
+  },
+  {
+    "code": "6-09-01-02",
+    "title": "圆珠笔制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yuan-zhu-bi-zhi-zao-gong"
+  },
+  {
+    "code": "6-09-01-04",
+    "title": "毛笔制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "mao-bi-zhi-zuo-gong"
+  },
+  {
+    "code": "6-09-01-06",
+    "title": "墨制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "mo-zhi-zuo-gong"
+  },
+  {
+    "code": "6-09-01-08",
+    "title": "绘图仪器制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "hui-tu-yi-qi-zhi-zuo-gong"
+  },
+  {
+    "code": "6-09-02-02",
+    "title": "提琴吉他制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ti-qin-ji-ta-zhi-zuo-gong"
+  },
+  {
+    "code": "6-09-02-05",
+    "title": "吹奏乐器制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "chui-zou-yue-qi-zhi-zuo-gong"
+  },
+  {
+    "code": "6-09-02-06",
+    "title": "打击乐器制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "da-ji-yue-qi-zhi-zuo-gong"
+  },
+  {
+    "code": "6-09-03-01",
+    "title": "工艺品雕刻工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gong-yi-pin-diao-ke-gong"
+  },
+  {
+    "code": "6-09-03-04",
+    "title": "景泰蓝制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jing-tai-lan-zhi-zuo-gong"
+  },
+  {
+    "code": "6-09-03-05",
+    "title": "金属摆件制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jin-shu-bai-jian-zhi-zuo-gong"
+  },
+  {
+    "code": "6-09-03-08",
+    "title": "版画制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ban-hua-zhi-zuo-gong"
+  },
+  {
+    "code": "6-09-03-09",
+    "title": "人造花制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ren-zao-hua-zhi-zuo-gong"
+  },
+  {
+    "code": "6-09-03-10",
+    "title": "工艺画制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gong-yi-hua-zhi-zuo-gong"
+  },
+  {
+    "code": "6-09-03-12",
+    "title": "手工地毯制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shou-gong-di-tan-zhi-zuo-gong"
+  },
+  {
+    "code": "6-09-03-13",
+    "title": "机制地毯制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ji-zhi-di-tan-zhi-zuo-gong"
+  },
+  {
+    "code": "6-09-03-16",
+    "title": "装裱师",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhuang-biao-shi"
+  },
+  {
+    "code": "6-09-03-19",
+    "title": "民间工艺品艺人",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "min-jian-gong-yi-pin-yi-ren"
+  },
+  {
+    "code": "6-09-04-03",
+    "title": "健身器材制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jian-shen-qi-cai-zhi-zuo-gong"
+  },
+  {
+    "code": "6-09-05-00",
+    "title": "玩具制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "wan-ju-zhi-zuo-gong"
+  },
+  {
+    "code": "6-10-01-01",
+    "title": "原油蒸馏工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yuan-you-zheng-liu-gong"
+  },
+  {
+    "code": "6-10-01-03",
+    "title": "蜡油渣油加氢工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "la-you-zha-you-jia-qing-gong"
+  },
+  {
+    "code": "6-10-01-04",
+    "title": "渣油热加工工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zha-you-re-jia-gong-gong"
+  },
+  {
+    "code": "6-10-01-07",
+    "title": "润滑油脂生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "run-hua-you-zhi-sheng-chan-gong"
+  },
+  {
+    "code": "6-10-01-09",
+    "title": "油制气工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "you-zhi-qi-gong"
+  },
+  {
+    "code": "6-10-01-10",
+    "title": "油品储运工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "you-pin-chu-yun-gong"
+  },
+  {
+    "code": "6-10-01-11",
+    "title": "油母页岩提炼工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "you-mu-ye-yan-ti-lian-gong"
+  },
+  {
+    "code": "6-10-02-02",
+    "title": "炼焦工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "lian-jiao-gong"
+  },
+  {
+    "code": "6-10-03-02",
+    "title": "煤制油生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "mei-zhi-you-sheng-chan-gong"
+  },
+  {
+    "code": "6-10-03-04",
+    "title": "水煤浆制备工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shui-mei-jiang-zhi-bei-gong"
+  },
+  {
+    "code": "6-10-03-05",
+    "title": "工业型煤工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gong-ye-xing-mei-gong"
+  },
+  {
+    "code": "6-11-01-01",
+    "title": "化工原料准备工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "hua-gong-yuan-liao-zhun-bei-gong"
+  },
+  {
+    "code": "6-11-01-04",
+    "title": "制冷工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhi-leng-gong"
+  },
+  {
+    "code": "6-11-01-05",
+    "title": "工业清洗工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gong-ye-qing-xi-gong"
+  },
+  {
+    "code": "6-11-02-03",
+    "title": "盐酸生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yan-suan-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-02-04",
+    "title": "磷酸生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "lin-suan-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-02-06",
+    "title": "烧碱生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shao-jian-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-02-09",
+    "title": "卤水综合利用工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "lu-shui-zong-he-li-yong-gong"
+  },
+  {
+    "code": "6-11-02-10",
+    "title": "无机化学反应生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "wu-ji-hua-xue-fan-ying-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-02-11",
+    "title": "脂肪烃生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhi-fang-ting-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-02-13",
+    "title": "脂肪烃衍生物生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhi-fang-ting-yan-sheng-wu-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-02-15",
+    "title": "有机合成工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "you-ji-he-cheng-gong"
+  },
+  {
+    "code": "6-11-03-03",
+    "title": "硝酸铵生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "xiao-suan-an-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-03-06",
+    "title": "复混肥生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "fu-hun-fei-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-03-07",
+    "title": "钙镁磷肥生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gai-mei-lin-fei-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-05-03",
+    "title": "颜料生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yan-liao-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-07-00",
+    "title": "合成橡胶生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "he-cheng-xiang-jiao-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-08-01",
+    "title": "催化剂生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "cui-hua-ji-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-08-03",
+    "title": "化学试剂生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "hua-xue-shi-ji-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-08-04",
+    "title": "印染助剂生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yin-ran-zhu-ji-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-08-07",
+    "title": "油脂化工产品制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "you-zhi-hua-gong-chan-pin-zhi-zao-gong"
+  },
+  {
+    "code": "6-11-08-08",
+    "title": "动物胶制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dong-wu-jiao-zhi-zao-gong"
+  },
+  {
+    "code": "6-11-08-10",
+    "title": "有机硅生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "you-ji-gui-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-08-11",
+    "title": "有机氟生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "you-ji-fu-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-08-13",
+    "title": "松节油制品工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "song-jie-you-zhi-pin-gong"
+  },
+  {
+    "code": "6-11-08-14",
+    "title": "活性炭生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "huo-xing-tan-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-08-17",
+    "title": "栓皮制品工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shuan-pi-zhi-pin-gong"
+  },
+  {
+    "code": "6-11-08-18",
+    "title": "植物原料水解工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhi-wu-yuan-liao-shui-jie-gong"
+  },
+  {
+    "code": "6-11-08-20",
+    "title": "胶印版材生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jiao-yin-ban-cai-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-08-21",
+    "title": "柔性版材生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "rou-xing-ban-cai-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-08-22",
+    "title": "磁记录材料生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ci-ji-lu-cai-liao-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-08-23",
+    "title": "热转移防护膜涂布工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "re-zhuan-yi-fang-hu-mo-tu-bu-gong"
+  },
+  {
+    "code": "6-11-08-25",
+    "title": "甘油制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gan-you-zhi-zao-gong"
+  },
+  {
+    "code": "6-11-08-26",
+    "title": "生物质化工产品生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "sheng-wu-zhi-hua-gong-chan-pin-sheng-chan-gong"
+  },
+  {
+    "code": "6-11-09-02",
+    "title": "索状爆破器材制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "suo-zhuang-bao-po-qi-cai-zhi-zao-gong"
+  },
+  {
+    "code": "6-11-09-03",
+    "title": "火工品装配工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "huo-gong-pin-zhuang-pei-gong"
+  },
+  {
+    "code": "6-11-10-01",
+    "title": "合成洗涤剂制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "he-cheng-xi-di-ji-zhi-zao-gong"
+  },
+  {
+    "code": "6-11-10-04",
+    "title": "化妆品制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "hua-zhuang-pin-zhi-zao-gong"
+  },
+  {
+    "code": "6-11-10-06",
+    "title": "香料制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "xiang-liao-zhi-zao-gong"
+  },
+  {
+    "code": "6-11-10-07",
+    "title": "调香师",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "diao-xiang-shi"
+  },
+  {
+    "code": "6-11-10-08",
+    "title": "香精配制工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "xiang-jing-pei-zhi-gong"
+  },
+  {
+    "code": "6-12-01-00",
+    "title": "化学合成制药工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "hua-xue-he-cheng-zhi-yao-gong"
+  },
+  {
+    "code": "6-12-02-00",
+    "title": "中药炮制工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhong-yao-pao-zhi-gong"
+  },
+  {
+    "code": "6-12-04-00",
+    "title": "兽药制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shou-yao-zhi-zao-gong"
+  },
+  {
+    "code": "6-12-05-03",
+    "title": "疫苗制品工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yi-miao-zhi-pin-gong"
+  },
+  {
+    "code": "6-13-01-01",
+    "title": "化纤聚合工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "hua-xian-ju-he-gong"
+  },
+  {
+    "code": "6-13-02-01",
+    "title": "纺丝工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "fang-si-gong"
+  },
+  {
+    "code": "6-14-01-01",
+    "title": "橡胶制品生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "xiang-jiao-zhi-pin-sheng-chan-gong"
+  },
+  {
+    "code": "6-14-02-00",
+    "title": "塑料制品成型制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "su-liao-zhi-pin-cheng-xing-zhi-zuo-gong"
+  },
+  {
+    "code": "6-15-01-01",
+    "title": "水泥生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shui-ni-sheng-chan-gong"
+  },
+  {
+    "code": "6-15-01-04",
+    "title": "石膏粉生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shi-gao-fen-sheng-chan-gong"
+  },
+  {
+    "code": "6-15-02-01",
+    "title": "砖瓦生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhuan-wa-sheng-chan-gong"
+  },
+  {
+    "code": "6-15-02-03",
+    "title": "石材生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shi-cai-sheng-chan-gong"
+  },
+  {
+    "code": "6-15-02-06",
+    "title": "保温材料制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "bao-wen-cai-liao-zhi-zao-gong"
+  },
+  {
+    "code": "6-15-02-07",
+    "title": "吸音材料制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "xi-yin-cai-liao-zhi-zao-gong"
+  },
+  {
+    "code": "6-15-03-01",
+    "title": "玻璃配料熔化工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "bo-li-pei-liao-rong-hua-gong"
+  },
+  {
+    "code": "6-15-03-02",
+    "title": "玻璃及玻璃制品成型工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "bo-li-ji-bo-li-zhi-pin-cheng-xing-gong"
+  },
+  {
+    "code": "6-15-03-06",
+    "title": "石英玻璃制品加工工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shi-ying-bo-li-zhi-pin-jia-gong-gong"
+  },
+  {
+    "code": "6-15-04-01",
+    "title": "玻璃纤维及制品工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "bo-li-xian-wei-ji-zhi-pin-gong"
+  },
+  {
+    "code": "6-15-05-01",
+    "title": "陶瓷原料准备工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "tao-ci-yuan-liao-zhun-bei-gong"
+  },
+  {
+    "code": "6-15-05-03",
+    "title": "陶瓷烧成工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "tao-ci-shao-cheng-gong"
+  },
+  {
+    "code": "6-15-05-04",
+    "title": "陶瓷装饰工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "tao-ci-zhuang-shi-gong"
+  },
+  {
+    "code": "6-15-05-05",
+    "title": "古建琉璃工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gu-jian-liu-li-gong"
+  },
+  {
+    "code": "6-15-06-02",
+    "title": "耐火材料烧成工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "nai-huo-cai-liao-shao-cheng-gong"
+  },
+  {
+    "code": "6-15-06-03",
+    "title": "耐火制品加工工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "nai-huo-zhi-pin-jia-gong-gong"
+  },
+  {
+    "code": "6-15-07-01",
+    "title": "炭素煅烧工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "tan-su-duan-shao-gong"
+  },
+  {
+    "code": "6-15-07-02",
+    "title": "炭素成型工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "tan-su-cheng-xing-gong"
+  },
+  {
+    "code": "6-15-07-05",
+    "title": "石墨化工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shi-mo-hua-gong"
+  },
+  {
+    "code": "6-15-07-06",
+    "title": "炭素制品工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "tan-su-zhi-pin-gong"
+  },
+  {
+    "code": "6-15-08-01",
+    "title": "人工合成晶体工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ren-gong-he-cheng-jing-ti-gong"
+  },
+  {
+    "code": "6-15-08-02",
+    "title": "高岭土加工工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gao-ling-tu-jia-gong-gong"
+  },
+  {
+    "code": "6-15-08-05",
+    "title": "云母制品工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yun-mu-zhi-pin-gong"
+  },
+  {
+    "code": "6-16-01-01",
+    "title": "露天采矿工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "lu-tian-cai-kuang-gong"
+  },
+  {
+    "code": "6-16-01-04",
+    "title": "矿井开掘工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "kuang-jing-kai-jue-gong"
+  },
+  {
+    "code": "6-16-01-05",
+    "title": "井下采矿工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jing-xia-cai-kuang-gong"
+  },
+  {
+    "code": "6-16-01-06",
+    "title": "井下支护工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jing-xia-zhi-hu-gong"
+  },
+  {
+    "code": "6-16-01-07",
+    "title": "井下机车运输工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jing-xia-ji-che-yun-shu-gong"
+  },
+  {
+    "code": "6-16-01-09",
+    "title": "矿井通风工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "kuang-jing-tong-feng-gong"
+  },
+  {
+    "code": "6-16-01-10",
+    "title": "矿山安全防护工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "kuang-shan-an-quan-fang-hu-gong"
+  },
+  {
+    "code": "6-16-01-12",
+    "title": "矿山救护工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "kuang-shan-jiu-hu-gong"
+  },
+  {
+    "code": "6-16-01-13",
+    "title": "矿山生产集控员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "kuang-shan-sheng-chan-ji-kong-yuan"
+  },
+  {
+    "code": "6-16-01-15",
+    "title": "选矿工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "xuan-kuang-gong"
+  },
+  {
+    "code": "6-16-01-16",
+    "title": "选矿脱水工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "xuan-kuang-tuo-shui-gong"
+  },
+  {
+    "code": "6-16-01-17",
+    "title": "尾矿工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "wei-kuang-gong"
+  },
+  {
+    "code": "6-16-02-01",
+    "title": "石油勘探工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shi-you-kan-tan-gong"
+  },
+  {
+    "code": "6-16-02-02",
+    "title": "钻井工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zuan-jing-gong"
+  },
+  {
+    "code": "6-16-02-05",
+    "title": "水下钻井设备操作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shui-xia-zuan-jing-she-bei-cao-zuo-gong"
+  },
+  {
+    "code": "6-16-02-07",
+    "title": "石油开采工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shi-you-kai-cai-gong"
+  },
+  {
+    "code": "6-16-02-10",
+    "title": "天然气处理工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "tian-ran-qi-chu-li-gong"
+  },
+  {
+    "code": "6-16-02-13",
+    "title": "海上平台水手",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "hai-shang-ping-tai-shui-shou"
+  },
+  {
+    "code": "6-16-03-03",
+    "title": "井矿盐制盐工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jing-kuang-yan-zhi-yan-gong"
+  },
+  {
+    "code": "6-17-01-01",
+    "title": "烧结球团原料工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shao-jie-qiu-tuan-yuan-liao-gong"
+  },
+  {
+    "code": "6-17-01-04",
+    "title": "烧结成品工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shao-jie-cheng-pin-gong"
+  },
+  {
+    "code": "6-17-01-05",
+    "title": "高炉原料工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gao-lu-yuan-liao-gong"
+  },
+  {
+    "code": "6-17-01-07",
+    "title": "高炉运转工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gao-lu-yun-zhuan-gong"
+  },
+  {
+    "code": "6-17-02-02",
+    "title": "炼钢工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "lian-gang-gong"
+  },
+  {
+    "code": "6-17-02-03",
+    "title": "炼钢浇铸工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "lian-gang-jiao-zhu-gong"
+  },
+  {
+    "code": "6-17-02-05",
+    "title": "整模脱模工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zheng-mo-tuo-mo-gong"
+  },
+  {
+    "code": "6-17-03-03",
+    "title": "铸管精整工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhu-guan-jing-zheng-gong"
+  },
+  {
+    "code": "6-17-04-03",
+    "title": "铁合金焙烧工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "tie-he-jin-bei-shao-gong"
+  },
+  {
+    "code": "6-17-04-04",
+    "title": "铁合金湿法冶炼工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "tie-he-jin-shi-fa-ye-lian-gong"
+  },
+  {
+    "code": "6-17-05-01",
+    "title": "重冶备料工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhong-ye-bei-liao-gong"
+  },
+  {
+    "code": "6-17-05-04",
+    "title": "重冶湿法冶炼工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhong-ye-shi-fa-ye-lian-gong"
+  },
+  {
+    "code": "6-17-05-05",
+    "title": "电解精炼工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dian-jie-jing-lian-gong"
+  },
+  {
+    "code": "6-17-06-01",
+    "title": "氧化铝制取工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yang-hua-lv-zhi-qu-gong"
+  },
+  {
+    "code": "6-17-06-03",
+    "title": "镁冶炼工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "mei-ye-lian-gong"
+  },
+  {
+    "code": "6-17-06-04",
+    "title": "硅冶炼工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gui-ye-lian-gong"
+  },
+  {
+    "code": "6-17-07-03",
+    "title": "钛冶炼工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "tai-ye-lian-gong"
+  },
+  {
+    "code": "6-17-07-05",
+    "title": "稀土材料生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "xi-tu-cai-liao-sheng-chan-gong"
+  },
+  {
+    "code": "6-17-07-07",
+    "title": "锂冶炼工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "li-ye-lian-gong"
+  },
+  {
+    "code": "6-17-08-01",
+    "title": "半导体辅料制备工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ban-dao-ti-fu-liao-zhi-bei-gong"
+  },
+  {
+    "code": "6-17-09-03",
+    "title": "金属材酸碱洗工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jin-shu-cai-suan-jian-xi-gong"
+  },
+  {
+    "code": "6-17-09-05",
+    "title": "金属材热处理工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jin-shu-cai-re-chu-li-gong"
+  },
+  {
+    "code": "6-17-09-08",
+    "title": "金属材丝拉拔工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jin-shu-cai-si-la-ba-gong"
+  },
+  {
+    "code": "6-17-09-11",
+    "title": "钢丝绳制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gang-si-sheng-zhi-zao-gong"
+  },
+  {
+    "code": "6-17-10-03",
+    "title": "硬质合金烧结工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ying-zhi-he-jin-shao-jie-gong"
+  },
+  {
+    "code": "6-18-01-04",
+    "title": "磨工 差分析",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "mo-gong-cha-fen-xi"
+  },
+  {
+    "code": "6-18-01-05",
+    "title": "镗工 复合机床和加工中心等, 进行工件切削加工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "tang-gong-fu-he-ji-chuang-he-jia-gong-zhong-xin-deng-jin-xing-gong-jian-qie-xiao-jia-gong"
+  },
+  {
+    "code": "6-18-01-08",
+    "title": "电切削工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dian-qie-xiao-gong"
+  },
+  {
+    "code": "6-18-01-09",
+    "title": "拉床工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "la-chuang-gong"
+  },
+  {
+    "code": "6-18-01-12",
+    "title": "冲压工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "chong-ya-gong"
+  },
+  {
+    "code": "6-18-01-13",
+    "title": "增材制造设备操作员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zeng-cai-zhi-zao-she-bei-cao-zuo-yuan"
+  },
+  {
+    "code": "6-18-02-02",
+    "title": "锻造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "duan-zao-gong"
+  },
+  {
+    "code": "6-18-02-03",
+    "title": "金属热处理工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jin-shu-re-chu-li-gong"
+  },
+  {
+    "code": "6-18-02-06",
+    "title": "粉末冶金制品制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "fen-mo-ye-jin-zhi-pin-zhi-zao-gong"
+  },
+  {
+    "code": "6-18-03-03",
+    "title": "涂装工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "tu-zhuang-gong"
+  },
+  {
+    "code": "6-18-03-04",
+    "title": "喷涂喷焊工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "pen-tu-pen-han-gong"
+  },
+  {
+    "code": "6-18-04-01",
+    "title": "模具工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "mu-ju-gong"
+  },
+  {
+    "code": "6-18-04-02",
+    "title": "模型制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "mo-xing-zhi-zuo-gong"
+  },
+  {
+    "code": "6-18-04-04",
+    "title": "磨具制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "mo-ju-zhi-zao-gong"
+  },
+  {
+    "code": "6-18-04-05",
+    "title": "量具和刃具制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "liang-ju-he-ren-ju-zhi-zao-gong"
+  },
+  {
+    "code": "6-19-01-01",
+    "title": "工具五金制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gong-ju-wu-jin-zhi-zuo-gong"
+  },
+  {
+    "code": "6-19-01-03",
+    "title": "锁具制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "suo-ju-zhi-zuo-gong"
+  },
+  {
+    "code": "6-19-01-04",
+    "title": "金属炊具及器皿制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jin-shu-chui-ju-ji-qi-min-zhi-zuo-gong"
+  },
+  {
+    "code": "6-19-01-07",
+    "title": "眼镜架制作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yan-jing-jia-zhi-zuo-gong"
+  },
+  {
+    "code": "6-20-01-01",
+    "title": "装配钳工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhuang-pei-qian-gong"
+  },
+  {
+    "code": "6-20-01-03",
+    "title": "齿轮制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "chi-lun-zhi-zao-gong"
+  },
+  {
+    "code": "6-20-01-04",
+    "title": "减变速机装配调试工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jian-bian-su-ji-zhuang-pei-diao-shi-gong"
+  },
+  {
+    "code": "6-20-01-07",
+    "title": "弹簧工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "tan-huang-gong"
+  },
+  {
+    "code": "6-20-02-01",
+    "title": "锅炉设备制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "guo-lu-she-bei-zhi-zao-gong"
+  },
+  {
+    "code": "6-20-02-03",
+    "title": "汽轮机装配调试工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "qi-lun-ji-zhuang-pei-diao-shi-gong"
+  },
+  {
+    "code": "6-20-02-04",
+    "title": "风电机组制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "feng-dian-ji-zu-zhi-zao-gong"
+  },
+  {
+    "code": "6-20-03-02",
+    "title": "焊接设备装配调试工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "han-jie-she-bei-zhuang-pei-diao-shi-gong"
+  },
+  {
+    "code": "6-20-05-04",
+    "title": "风机装配调试工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "feng-ji-zhuang-pei-diao-shi-gong"
+  },
+  {
+    "code": "6-20-05-05",
+    "title": "过滤与分离机械装配调试工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "guo-lv-yu-fen-li-ji-xie-zhuang-pei-diao-shi-gong"
+  },
+  {
+    "code": "6-20-05-06",
+    "title": "气体分离设备装配调试工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "qi-ti-fen-li-she-bei-zhuang-pei-diao-shi-gong"
+  },
+  {
+    "code": "6-20-05-09",
+    "title": "液压液力气动密封件制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ye-ya-ye-li-qi-dong-mi-feng-jian-zhi-zao-gong"
+  },
+  {
+    "code": "6-20-06-01",
+    "title": "工业炉及电炉装配工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gong-ye-lu-ji-dian-lu-zhuang-pei-gong"
+  },
+  {
+    "code": "6-20-06-04",
+    "title": "电动工具制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dian-dong-gong-ju-zhi-zao-gong"
+  },
+  {
+    "code": "6-20-07-01",
+    "title": "电影电教设备制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dian-ying-dian-jiao-she-bei-zhi-zao-gong"
+  },
+  {
+    "code": "6-20-07-02",
+    "title": "照相机及器材制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhao-xiang-ji-ji-qi-cai-zhi-zao-gong"
+  },
+  {
+    "code": "6-20-07-04",
+    "title": "办公小机械制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ban-gong-xiao-ji-xie-zhi-zao-gong"
+  },
+  {
+    "code": "6-20-07-05",
+    "title": "光学镜头制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "guang-xue-jing-tou-zhi-zao-gong"
+  },
+  {
+    "code": "6-21-01-01",
+    "title": "矿用电机车装配工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "kuang-yong-dian-ji-che-zhuang-pei-gong"
+  },
+  {
+    "code": "6-21-01-02",
+    "title": "工程机械装配调试工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gong-cheng-ji-xie-zhuang-pei-diao-shi-gong"
+  },
+  {
+    "code": "6-21-02-00",
+    "title": "印刷设备装配调试工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yin-shua-she-bei-zhuang-pei-diao-shi-gong"
+  },
+  {
+    "code": "6-21-04-01",
+    "title": "电子专用设备装调工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dian-zi-zhuan-yong-she-bei-zhuang-diao-gong"
+  },
+  {
+    "code": "6-21-04-02",
+    "title": "真空测试工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhen-kong-ce-shi-gong"
+  },
+  {
+    "code": "6-21-05-02",
+    "title": "耕种机械制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "geng-zhong-ji-xie-zhi-zao-gong"
+  },
+  {
+    "code": "6-21-06-01",
+    "title": "医疗器械装配工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yi-liao-qi-xie-zhuang-pei-gong"
+  },
+  {
+    "code": "6-21-06-04",
+    "title": "医用材料产品生产工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yi-yong-cai-liao-chan-pin-sheng-chan-gong"
+  },
+  {
+    "code": "6-22-01-01",
+    "title": "汽车生产线操作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "qi-che-sheng-chan-xian-cao-zuo-gong"
+  },
+  {
+    "code": "6-22-01-02",
+    "title": "汽车饰件制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "qi-che-shi-jian-zhi-zao-gong"
+  },
+  {
+    "code": "6-23-01-01",
+    "title": "铁路机车制修工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "tie-lu-ji-che-zhi-xiu-gong"
+  },
+  {
+    "code": "6-23-01-03",
+    "title": "动车组制修师",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dong-che-zu-zhi-xiu-shi"
+  },
+  {
+    "code": "6-23-02-01",
+    "title": "金属船体制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jin-shu-chuan-ti-zhi-zao-gong"
+  },
+  {
+    "code": "6-23-02-03",
+    "title": "船舶电气装配工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "chuan-bo-dian-qi-zhuang-pei-gong"
+  },
+  {
+    "code": "6-23-02-04",
+    "title": "船舶附件制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "chuan-bo-fu-jian-zhi-zao-gong"
+  },
+  {
+    "code": "6-23-03-03",
+    "title": "航空发动机装配工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "hang-kong-fa-dong-ji-zhuang-pei-gong"
+  },
+  {
+    "code": "6-23-03-06",
+    "title": "航空附件装配工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "hang-kong-fu-jian-zhuang-pei-gong"
+  },
+  {
+    "code": "6-23-03-07",
+    "title": "航空仪表装配工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "hang-kong-yi-biao-zhuang-pei-gong"
+  },
+  {
+    "code": "6-23-03-08",
+    "title": "航空装配平衡工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "hang-kong-zhuang-pei-ping-heng-gong"
+  },
+  {
+    "code": "6-23-03-09",
+    "title": "飞机无线电设备安装调试工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "fei-ji-wu-xian-dian-she-bei-an-zhuang-tiao-shi-gong"
+  },
+  {
+    "code": "6-23-03-10",
+    "title": "飞机雷达安装调试工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "fei-ji-lei-da-an-zhuang-tiao-shi-gong"
+  },
+  {
+    "code": "6-23-03-13",
+    "title": "飞机外场调试与维护工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "fei-ji-wai-chang-tiao-shi-yu-wei-hu-gong"
+  },
+  {
+    "code": "6-23-03-14",
+    "title": "航空环控救生装备工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "hang-kong-huan-kong-jiu-sheng-zhuang-bei-gong"
+  },
+  {
+    "code": "6-23-04-01",
+    "title": "摩托车装调工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "mo-tuo-che-zhuang-diao-gong"
+  },
+  {
+    "code": "6-24-01-00",
+    "title": "电机制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dian-ji-zhi-zao-gong"
+  },
+  {
+    "code": "6-24-02-01",
+    "title": "变压器互感器制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "bian-ya-qi-hu-gan-qi-zhi-zao-gong"
+  },
+  {
+    "code": "6-24-02-02",
+    "title": "高低压电器及成套设备装配工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gao-di-ya-dian-qi-ji-cheng-tao-she-bei-zhuang-pei-gong"
+  },
+  {
+    "code": "6-24-02-04",
+    "title": "光伏组件制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "guang-fu-zu-jian-zhi-zao-gong"
+  },
+  {
+    "code": "6-24-03-03",
+    "title": "绝缘制品制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jue-yuan-zhi-pin-zhi-zao-gong"
+  },
+  {
+    "code": "6-24-03-05",
+    "title": "电器附件制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dian-qi-fu-jian-zhi-zao-gong"
+  },
+  {
+    "code": "6-24-05-01",
+    "title": "家用电冰箱制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jia-yong-dian-bing-xiang-zhi-zao-gong"
+  },
+  {
+    "code": "6-24-05-03",
+    "title": "洗衣机制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "xi-yi-ji-zhi-zao-gong"
+  },
+  {
+    "code": "6-24-05-04",
+    "title": "小型家用电器制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "xiao-xing-jia-yong-dian-qi-zhi-zao-gong"
+  },
+  {
+    "code": "6-24-06-00",
+    "title": "燃气具制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ran-qi-ju-zhi-zao-gong"
+  },
+  {
+    "code": "6-24-07-01",
+    "title": "电光源制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dian-guang-yuan-zhi-zao-gong"
+  },
+  {
+    "code": "6-24-07-02",
+    "title": "灯具制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "deng-ju-zhi-zao-gong"
+  },
+  {
+    "code": "6-25-01-02",
+    "title": "电阻器制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dian-zu-qi-zhi-zao-gong"
+  },
+  {
+    "code": "6-25-01-03",
+    "title": "微波铁氧体元器件制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "wei-bo-tie-yang-ti-yuan-qi-jian-zhi-zao-gong"
+  },
+  {
+    "code": "6-25-01-04",
+    "title": "石英晶体生长设备操作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shi-ying-jing-ti-sheng-zhang-she-bei-cao-zuo-gong"
+  },
+  {
+    "code": "6-25-01-07",
+    "title": "电声器件制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dian-sheng-qi-jian-zhi-zao-gong"
+  },
+  {
+    "code": "6-25-01-10",
+    "title": "高频电感器制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gao-pin-dian-gan-qi-zhi-zao-gong"
+  },
+  {
+    "code": "6-25-01-11",
+    "title": "电器接插件制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dian-qi-jie-cha-jian-zhi-zao-gong"
+  },
+  {
+    "code": "6-25-01-14",
+    "title": "薄膜加热器件制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "bao-mo-jia-re-qi-jian-zhi-zao-gong"
+  },
+  {
+    "code": "6-25-01-15",
+    "title": "温差电器件制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "wen-cha-dian-qi-jian-zhi-zao-gong"
+  },
+  {
+    "code": "6-25-02-01",
+    "title": "真空电子器件零件制造及装调工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhen-kong-dian-zi-qi-jian-ling-jian-zhi-zao-ji-zhuang-diao-gong"
+  },
+  {
+    "code": "6-25-02-02",
+    "title": "电极丝制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dian-ji-si-zhi-zao-gong"
+  },
+  {
+    "code": "6-25-02-03",
+    "title": "液晶显示器件制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ye-jing-xian-shi-qi-jian-zhi-zao-gong"
+  },
+  {
+    "code": "6-25-02-04",
+    "title": "晶片加工工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jing-pian-jia-gong-gong"
+  },
+  {
+    "code": "6-25-02-05",
+    "title": "半导体芯片制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ban-dao-ti-xin-pian-zhi-zao-gong"
+  },
+  {
+    "code": "6-25-02-07",
+    "title": "磁头制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ci-tou-zhi-zao-gong"
+  },
+  {
+    "code": "6-25-04-01",
+    "title": "通信系统设备制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "tong-xin-xi-tong-she-bei-zhi-zao-gong"
+  },
+  {
+    "code": "6-25-04-02",
+    "title": "通信终端设备制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "tong-xin-zhong-duan-she-bei-zhi-zao-gong"
+  },
+  {
+    "code": "6-25-04-05",
+    "title": "智能硬件装调员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhi-neng-ying-jian-zhuang-diao-yuan"
+  },
+  {
+    "code": "6-25-04-08",
+    "title": "电子设备调试工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dian-zi-she-bei-tiao-shi-gong"
+  },
+  {
+    "code": "6-25-04-09",
+    "title": "物联网安装调试员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "wu-lian-wang-an-zhuang-tiao-shi-yuan"
+  },
+  {
+    "code": "6-26-01-01",
+    "title": "仪器仪表制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yi-qi-yi-biao-zhi-zao-gong"
+  },
+  {
+    "code": "6-26-01-02",
+    "title": "钟表及计时仪器制造工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhong-biao-ji-ji-shi-yi-qi-zhi-zao-gong"
+  },
+  {
+    "code": "6-27-01-00",
+    "title": "再生物资加工处理工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zai-sheng-wu-zi-jia-gong-chu-li-gong"
+  },
+  {
+    "code": "6-28-01-01",
+    "title": "锅炉运行值班员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "guo-lu-yun-xing-zhi-ban-yuan"
+  },
+  {
+    "code": "6-28-01-02",
+    "title": "燃料值班员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ran-liao-zhi-ban-yuan"
+  },
+  {
+    "code": "6-28-01-03",
+    "title": "汽轮机运行值班员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "qi-lun-ji-yun-xing-zhi-ban-yuan"
+  },
+  {
+    "code": "6-28-01-06",
+    "title": "电气值班员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dian-qi-zhi-ban-yuan"
+  },
+  {
+    "code": "6-28-01-07",
+    "title": "火电厂氢冷值班员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "huo-dian-chang-qing-leng-zhi-ban-yuan"
+  },
+  {
+    "code": "6-28-01-09",
+    "title": "水力发电运行值班员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shui-li-fa-dian-yun-xing-zhi-ban-yuan"
+  },
+  {
+    "code": "6-28-01-10",
+    "title": "光伏发电运维值班员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "guang-fu-fa-dian-yun-wei-zhi-ban-yuan"
+  },
+  {
+    "code": "6-28-01-11",
+    "title": "锅炉操作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "guo-lu-cao-zuo-gong"
+  },
+  {
+    "code": "6-28-01-14",
+    "title": "变配电运行值班员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "bian-pei-dian-yun-xing-zhi-ban-yuan"
+  },
+  {
+    "code": "6-28-02-02",
+    "title": "气体深冷分离工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "qi-ti-shen-leng-fen-li-gong"
+  },
+  {
+    "code": "6-28-02-04",
+    "title": "工业气体液化工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gong-ye-qi-ti-ye-hua-gong"
+  },
+  {
+    "code": "6-28-02-05",
+    "title": "工业废气治理工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gong-ye-fei-qi-zhi-li-gong"
+  },
+  {
+    "code": "6-28-03-01",
+    "title": "水生产处理工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shui-sheng-chan-chu-li-gong"
+  },
+  {
+    "code": "6-28-03-04",
+    "title": "司泵工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "si-beng-gong"
+  },
+  {
+    "code": "6-29-01-01",
+    "title": "砌筑工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "qi-zhu-gong"
+  },
+  {
+    "code": "6-29-01-02",
+    "title": "石工 使用工具",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shi-gong-shi-yong-gong-ju"
+  },
+  {
+    "code": "6-29-01-03",
+    "title": "混凝土工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "hun-ning-tu-gong"
+  },
+  {
+    "code": "6-29-01-05",
+    "title": "架子工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jia-zi-gong"
+  },
+  {
+    "code": "6-29-01-06",
+    "title": "装配式建筑施工员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhuang-pei-shi-jian-zhu-shi-gong-yuan"
+  },
+  {
+    "code": "6-29-01-07",
+    "title": "乡村建设工匠",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "xiang-cun-jian-she-gong-jiang"
+  },
+  {
+    "code": "6-29-02-01",
+    "title": "铁路自轮运转设备工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "tie-lu-zi-lun-yun-zhuan-she-bei-gong"
+  },
+  {
+    "code": "6-29-02-03",
+    "title": "筑路工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhu-lu-gong"
+  },
+  {
+    "code": "6-29-02-04",
+    "title": "公路养护工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gong-lu-yang-hu-gong"
+  },
+  {
+    "code": "6-29-02-05",
+    "title": "桥隧工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "qiao-sui-gong"
+  },
+  {
+    "code": "6-29-02-08",
+    "title": "防水工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "fang-shui-gong"
+  },
+  {
+    "code": "6-29-02-09",
+    "title": "水运工程施工工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shui-yun-gong-cheng-shi-gong-gong"
+  },
+  {
+    "code": "6-29-02-12",
+    "title": "送配电线路工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "song-pei-dian-xian-lu-gong"
+  },
+  {
+    "code": "6-29-02-13",
+    "title": "牵引电力线路安装维护工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "qian-yin-dian-li-xian-lu-an-zhuang-wei-hu-gong"
+  },
+  {
+    "code": "6-29-02-14",
+    "title": "设施",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "she-shi"
+  },
+  {
+    "code": "6-29-02-15",
+    "title": "检查",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "jian-cha"
+  },
+  {
+    "code": "6-29-02-16",
+    "title": "路隧道设施",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "lu-sui-dao-she-shi"
+  },
+  {
+    "code": "6-29-02-17",
+    "title": "看守桥梁",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "kan-shou-qiao-liang"
+  },
+  {
+    "code": "6-29-03-01",
+    "title": "机械设备安装工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ji-xie-she-bei-an-zhuang-gong"
+  },
+  {
+    "code": "6-29-03-02",
+    "title": "电气设备安装工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dian-qi-she-bei-an-zhuang-gong"
+  },
+  {
+    "code": "6-29-03-04",
+    "title": "管工 统维修过程中制冷剂的回收再利用或再生",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "guan-gong-tong-wei-xiu-guo-cheng-zhong-zhi-leng-ji-de-hui-shou-zai-li-yong-huo-zai-sheng"
+  },
+  {
+    "code": "6-29-03-05",
+    "title": "制冷空调系统安装维修工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhi-leng-kong-tiao-xi-tong-an-zhuang-wei-xiu-gong"
+  },
+  {
+    "code": "6-29-03-08",
+    "title": "电力电气设备安装工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dian-li-dian-qi-she-bei-an-zhuang-gong"
+  },
+  {
+    "code": "6-29-04-01",
+    "title": "装饰装修工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhuang-shi-zhuang-xiu-gong"
+  },
+  {
+    "code": "6-29-05-00",
+    "title": "古建筑工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gu-jian-zhu-gong"
+  },
+  {
+    "code": "6-30-01-00",
+    "title": "专用车辆驾驶员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhuan-yong-che-liang-jia-shi-yuan"
+  },
+  {
+    "code": "6-30-02-03",
+    "title": "机车调度值班员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ji-che-diao-du-zhi-ban-yuan"
+  },
+  {
+    "code": "6-30-02-04",
+    "title": "机车整备员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ji-che-zheng-bei-yuan"
+  },
+  {
+    "code": "6-30-02-07",
+    "title": "铁路电源工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "tie-lu-dian-yuan-gong"
+  },
+  {
+    "code": "6-30-03-01",
+    "title": "航空通信导航监视员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "hang-kong-tong-xin-dao-hang-jian-shi-yuan"
+  },
+  {
+    "code": "6-30-03-02",
+    "title": "民航机场专用设备机务员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "min-hang-ji-chang-zhuan-yong-she-bei-ji-wu-yuan"
+  },
+  {
+    "code": "6-30-03-03",
+    "title": "航空油料员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "hang-kong-you-liao-yuan"
+  },
+  {
+    "code": "6-30-04-02",
+    "title": "船舶机舱设备操作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "chuan-bo-ji-cang-she-bei-cao-zuo-gong"
+  },
+  {
+    "code": "6-30-04-03",
+    "title": "船闸及升船机运管员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "chuan-zha-ji-sheng-chuan-ji-yun-guan-yuan"
+  },
+  {
+    "code": "6-30-05-01",
+    "title": "起重装卸机械操作工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "qi-zhong-zhuang-xie-ji-xie-cao-zuo-gong"
+  },
+  {
+    "code": "6-30-05-02",
+    "title": "使用工具",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "shi-yong-gong-ju"
+  },
+  {
+    "code": "6-30-05-03",
+    "title": "体的人员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ti-de-ren-yuan"
+  },
+  {
+    "code": "6-30-05-04",
+    "title": "主要工作任务",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "zhu-yao-gong-zuo-ren-wu"
+  },
+  {
+    "code": "6-30-05-05",
+    "title": "根据物体质量",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gen-ju-wu-ti-zhi-liang"
+  },
+  {
+    "code": "6-31-01-01",
+    "title": "设备点检员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "she-bei-dian-jian-yuan"
+  },
+  {
+    "code": "6-31-01-03",
+    "title": "电工 检修锅炉本体及辅机",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dian-gong-jian-xiu-guo-lu-ben-ti-ji-fu-ji"
+  },
+  {
+    "code": "6-31-01-04",
+    "title": "仪器仪表维修工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "yi-qi-yi-biao-wei-xiu-gong"
+  },
+  {
+    "code": "6-31-01-07",
+    "title": "电机检修工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "dian-ji-jian-xiu-gong"
+  },
+  {
+    "code": "6-31-01-10",
+    "title": "机电设备维修工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "ji-dian-she-bei-wei-xiu-gong"
+  },
+  {
+    "code": "6-31-02-01",
+    "title": "船舶修理工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "chuan-bo-xiu-li-gong"
+  },
+  {
+    "code": "6-31-02-03",
+    "title": "航空器部件修理工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "hang-kong-qi-bu-jian-xiu-li-gong"
+  },
+  {
+    "code": "6-31-03-01",
+    "title": "化学检验员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "hua-xue-jian-yan-yuan"
+  },
+  {
+    "code": "6-31-03-02",
+    "title": "物理性能检验员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "wu-li-xing-neng-jian-yan-yuan"
+  },
+  {
+    "code": "6-31-03-03",
+    "title": "生化检验员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "sheng-hua-jian-yan-yuan"
+  },
+  {
+    "code": "6-31-03-04",
+    "title": "无损检测员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "wu-sun-jian-ce-yuan"
+  },
+  {
+    "code": "6-31-04-00",
+    "title": "称重计量工",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "cheng-zhong-ji-liang-gong"
+  },
+  {
+    "code": "6-31-06-00",
+    "title": "安全员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "an-quan-yuan"
+  },
+  {
+    "code": "6-31-07-02",
+    "title": "工业视觉系统运维员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gong-ye-shi-jue-xi-tong-yun-wei-yuan"
+  },
+  {
+    "code": "6-31-07-03",
+    "title": "工业机器人系统操作员",
+    "category": "生产制造及有关人员",
+    "sub_category": "",
+    "slug": "gong-ye-ji-qi-ren-xi-tong-cao-zuo-yuan"
+  }
+]

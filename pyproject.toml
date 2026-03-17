@@ -1,0 +1,24 @@
+[project]
+name = "jobs-cn"
+version = "0.1.0"
+description = "China Job Market Visualizer - AI exposure analysis for 1636 Chinese occupations"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "httpx>=0.28.1",
+    "playwright>=1.58.0",
+    "python-dotenv>=1.2.2",
+    "pdfplumber>=0.10.0",
+    "jieba>=0.42.1",
+    "pypinyin>=0.49.0",
+    "pandas>=2.0.0",
+    "openai>=1.0.0",
+]
+
+[project.scripts]
+scrape = "scrape:main"
+parse = "parse_detail:main"
+process = "process:main"
+score = "score:main"
+build = "build_site_data:main"

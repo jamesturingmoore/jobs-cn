@@ -1,0 +1,4507 @@
+[
+  {
+    "slug": "guo-jia-quan-li-ji-guan-fu-ze-ren",
+    "exposure": 6,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "guo-jia-xing-zheng-ji-guan-fu-ze-ren",
+    "exposure": 7,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "ren-min-zheng-xie-ji-guan-fu-ze-ren",
+    "exposure": 7,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "jian-cha-ji-guan-fu-ze-ren",
+    "exposure": 6,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "ren-min-fa-yuan-fu-ze-ren",
+    "exposure": 6,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "min-zhu-dang-pai-fu-ze-ren",
+    "exposure": 6,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "gong-hui-fu-ze-ren",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "qi-ta-ren-min-tuan-ti-he-qun-zhong-tuan-ti-fu-ze-ren",
+    "exposure": 6,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "she-hui-tuan-ti-fu-ze-ren",
+    "exposure": 7,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "she-hui-zhong-jie-zu-zhi-fu-ze-ren",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "ji-jin-hui-fu-ze-ren",
+    "exposure": 5,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "cun-min-wei-yuan-hui-fu-ze-ren",
+    "exposure": 7,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "qi-ye-dong-shi",
+    "exposure": 7,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "zhe-xue-yan-jiu-ren-yuan",
+    "exposure": 7,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "jing-ji-xue-yan-jiu-ren-yuan",
+    "exposure": 7,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "jiao-yu-xue-yan-jiu-ren-yuan",
+    "exposure": 8,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "xin-li-xue-yan-jiu-ren-yuan",
+    "exposure": 7,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "shu-xue-yan-jiu-ren-yuan",
+    "exposure": 8,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "wu-li-xue-yan-jiu-ren-yuan",
+    "exposure": 8,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "di-qiu-ke-xue-yan-jiu-ren-yuan",
+    "exposure": 8,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "yi-xue-yan-jiu-ren-yuan",
+    "exposure": 8,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "guan-li-xue-yan-jiu-ren-yuan",
+    "exposure": 8,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "jun-shi-xue-yan-jiu-ren-yuan",
+    "exposure": 8,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "di-qiu-wu-li-di-qiu-hua-xue-yu-yao-gan-kan-cha",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "shui-gong-huan-di-zhi-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "zuan-tan-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "she-ying-ce-liang-yu-yao-gan-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "di-tu-zhi-tu-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "hai-yang-ce-hui-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "di-li-xin-xi-xi-tong-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "dao-hang-yu-wei-zhi-fu-wu-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "kuang-jing-jian-she-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 3,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "xuan-kuang-yu-kuang-wu-jia-gong-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "shi-you-tian-ran-qi-kai-cai-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "shi-you-tian-ran-qi-chu-yun-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "jiao-hua-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "nai-huo-cai-liao-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "zhu-guan-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "hua-gong-shi-yan-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "hua-gong-she-ji-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "ji-xie-she-ji-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 6,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "she-bei-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "yi-xue-she-bei-guan-li-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "cai-liao-cheng-xing-yu-gai-xing-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "han-jie-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "chuan-bo-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "zhu-zao-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "fei-xing-qi-zhi-zao-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "hang-kong-dong-li-zhuang-zhi-she-ji-gong-cheng-ji-shu",
+    "exposure": 6,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "hang-kong-dong-li-zhuang-zhi-zhi-zao-gong-cheng-ji-shu",
+    "exposure": 4,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "hang-kong-chan-pin-shi-hang-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "dian-zi-yuan-qi-jian-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "lei-da-dao-hang-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "dian-zi-yi-qi-yu-dian-zi-ce-liang-gong-cheng-ji-shu",
+    "exposure": 4,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "tong-xin-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "ji-suan-ji-ying-jian-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 3,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "xin-xi-xi-tong-fen-xi-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 6,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "qian-ru-shi-xi-tong-she-ji-gong-cheng-ji-shu-ren",
+    "exposure": 7,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "dian-gong-dian-qi-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "fa-dian-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 3,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "gong-yong-dian-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "dian-li-gong-cheng-an-zhuang-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "guang-bo-dian-shi-zhi-bo-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "guang-bo-dian-shi-chuan-shu-fu-gai-gong-cheng-ji-shu-ren",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "qi-che-yun-yong-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "jin-xing-qi-che-yun-xing",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "shui-shang-jiao-tong-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "cong-shi-chuan-bo",
+    "exposure": 6,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "ji-shu-ren-yuan",
+    "exposure": 6,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "shi-jue-hang-biao-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 3,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "dao-lu-jiao-tong-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "gong-lu-yang-hu-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "min-yong-hang-kong-qi-wei-xiu-yu-shi-hang-gong-cheng-ji",
+    "exposure": 5,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "min-hang-kong-zhong-jiao-tong-guan-li-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "min-hang-fei-xing-qian-pai-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "tie-dao-ji-wu-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "tie-dao-che-liang-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "tie-dao-gong-wu-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "jian-zhu-he-shi-zheng-she-ji-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "tu-mu-jian-zhu-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "gong-shui-pai-shui-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "gong-cheng-kan-cha-yu-yan-tu-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "huan-jing-wei-sheng-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 3,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "gang-kou-yu-hang-dao-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "min-hang-ji-chang-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 3,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "tie-lu-jian-zhu-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "shui-li-shui-dian-jian-zhu-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "gui-suan-yan-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "hun-ning-tu-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "sen-lin-pei-yu-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "zi-ran-bao-hu-qu-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "sen-lin-bao-hu-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "jing-ji-lin-chan-pin-jia-gong-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "lin-ye-zi-yuan-diao-cha-yu-jian-ce-gong-cheng-ji-shu",
+    "exposure": 4,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "hu-he-zong-he-li-yong",
+    "exposure": 6,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "bao-hu-de-gui-hua",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "bian-zhi-he-shi-shi-he-hu-zong-he-zhi-li",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "yan-jiu",
+    "exposure": 7,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "yong-fang-fa",
+    "exposure": 7,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "hai-yang-huan-jing-yu-bao-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "hai-yang-zi-yuan-kai-fa-li-yong-he-bao-hu-gong-cheng",
+    "exposure": 4,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "shen-qian-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "ran-zheng-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "hua-xue-xian-wei-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "shi-pin-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "qi-hou-jian-ce-yu-ce-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "qi-xiang-fu-wu-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 3,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "fang-lei-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "di-zhen-jian-ce-yu-ce-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "di-zhen-an-quan-xing-ping-jia-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "huan-jing-wu-ran-fang-zhi-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "huan-jing-ying-xiang-ping-jia-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "he-yu-fu-she-an-quan-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "an-quan-ji-shu-fang-fan-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 3,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "an-quan-ping-jia-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "fang-wu-an-quan-jian-ding-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 3,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "ji-liang-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "zhi-liang-guan-li-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "gong-ye-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "xiang-mu-guan-li-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "zai-sheng-zi-yuan-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 3,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "shu-ju-fen-xi-chu-li-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "gong-cheng-zao-jia-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "chan-pin-zhi-liang-jian-yan-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "jin-chu-kou-shang-pin-jian-yan-jian-ding-gong-cheng-ji-shu",
+    "exposure": 4,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "xian-wei-zhi-liang-jian-yan-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "yin-shua-fu-zhi-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "chan-pin-she-ji-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 6,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "gong-ye-she-ji-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "jiao-xing-qi-shi",
+    "exposure": 6,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "zhi-jiang-zao-zhi-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 3,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "ri-yong-hua-gong-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "cheng-xiang-gui-hua-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "wu-lian-wang-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "da-shu-ju-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 7,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "gong-ye-hu-lian-wang-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "ji-cheng-dian-lu-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "ji-qi-ren-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "shu-ju-an-quan-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 7,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "mi-ma-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "tu-rang-fei-liao-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "zhi-wu-bao-hu-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "yuan-yi-ji-shu-ren-yuan",
+    "exposure": 6,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "shou-yi-cong-shi-chong-wu-ji-bing-zhen-duan",
+    "exposure": 6,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "chong-wu-yi-shi",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "xu-mu-ji-shu-ren-yuan",
+    "exposure": 7,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "cao-ye-ji-shu-ren-yuan",
+    "exposure": 6,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "yu-ye-zi-yuan-kai-fa-li-yong-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "nong-ye-gong-cheng-ji-shu-ren-yuan",
+    "exposure": 4,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "fei-xing-jia-shi-yuan",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "fei-xing-ling-hang-yuan",
+    "exposure": 6,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "fei-xing-tong-xin-yuan",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "lun-ji-bu-ji-shu-ren-yuan",
+    "exposure": 5,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "er-ke-yi-shi",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "fu-chan-ke-yi-shi",
+    "exposure": 7,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "er-bi-yan-hou-ke-yi-shi",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "kou-qiang-ke-yi-shi",
+    "exposure": 5,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "jing-shen-ke-yi-shi",
+    "exposure": 6,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "ji-zhen-ke-yi-shi",
+    "exposure": 5,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "kang-fu-ke-yi-shi",
+    "exposure": 6,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "ma-zui-ke-yi-shi",
+    "exposure": 5,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "bing-li-ke-yi-shi",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "fang-she-ke-yi-shi",
+    "exposure": 6,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "he-yi-xue-ke-yi-shi",
+    "exposure": 7,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "chao-sheng-ke-yi-shi",
+    "exposure": 6,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "yi-xue-yi-chuan-ke-yi-shi",
+    "exposure": 7,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "fu-you-bao-jian-yi-shi",
+    "exposure": 6,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "zhi-ye-bing-ke-yi-shi",
+    "exposure": 6,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "zhong-yi-fu-ke-yi-shi",
+    "exposure": 6,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "zhong-yi-er-ke-yi-shi",
+    "exposure": 5,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "zhong-yi-yan-ke-yi-shi",
+    "exposure": 7,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "zhong-yi-gu-shang-ke-yi-shi",
+    "exposure": 5,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "zhong-yi-gang-chang-ke-yi-shi",
+    "exposure": 5,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "zhong-yi-er-bi-yan-hou-ke-yi-shi",
+    "exposure": 5,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "zhong-yi-tui-na-yi-shi",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "zhong-yi-ying-yang-yi-shi",
+    "exposure": 7,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "zhong-yi-ya-jian-kang-yi-shi",
+    "exposure": 7,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "zhong-xi-yi-jie-he-fu-ke-yi-shi",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "zhong-xi-yi-jie-he-er-ke-yi-shi",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "zhong-xi-yi-jie-he-gu-shang-ke-yi-shi",
+    "exposure": 6,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "zhong-xi-yi-jie-he-pi-fu-yu-xing-bing-ke-yi-shi",
+    "exposure": 6,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "min-zu-yi-yi-shi",
+    "exposure": 6,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "jian-kang-jiao-yu-yi-shi",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "gong-gong-wei-sheng-yi-shi",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "zhong-yao-shi",
+    "exposure": 7,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "min-zu-yao-shi",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "ying-xiang-ji-shi",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "kou-qiang-yi-xue-ji-shi",
+    "exposure": 6,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "bing-li-ji-shi",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "wei-sheng-gong-cheng-ji-shi",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "shu-xue-ji-shi",
+    "exposure": 6,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "lin-chuang-ying-yang-ji-shi",
+    "exposure": 7,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "shen-jing-dian-sheng-li-nao-dian-tu-ji-shi",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "xin-li-zhi-liao-ji-shi",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "nei-ke-hu-shi",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "er-ke-hu-shi",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "ji-zhen-hu-shi",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "zhu-chan-shi",
+    "exposure": 6,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "kou-qiang-ke-hu-shi",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "xiang-cun-yi-sheng",
+    "exposure": 5,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "jing-ji-gui-hua-zhuan-ye-ren-yuan",
+    "exposure": 6,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "yi-huo-jing-ji-zhuan-ye-ren-yuan",
+    "exposure": 6,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "tong-ji-zhuan-ye-ren-yuan",
+    "exposure": 6,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "shen-ji-zhuan-ye-ren-yuan",
+    "exposure": 6,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "shui-wu-zhuan-ye-ren-yuan",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "fang-di-chan-gu-jia-zhuan-ye-ren-yuan",
+    "exposure": 6,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "sen-lin-zi-yuan-ping-gu-zhuan-ye-ren-yuan",
+    "exposure": 4,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "kuang-ye-quan-ping-gu-zhuan-ye-ren-yuan",
+    "exposure": 7,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "guo-ji-shang-wu-zhuan-ye-ren-yuan",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "shi-chang-ying-xiao-zhuan-ye-ren-yuan",
+    "exposure": 6,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "fang-di-chan-kai-fa-zhuan-ye-ren-yuan",
+    "exposure": 6,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "yi-yao-dai-biao",
+    "exposure": 7,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "guan-li-zi-xun-zhuan-ye-ren-yuan",
+    "exposure": 9,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "jing-ji-yu-dai-li-zhuan-ye-ren-yuan",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "bao-guan-ren-yuan",
+    "exposure": 5,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "qi-ye-he-gui-shi",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "zhao-biao-cai-gou-zhuan-ye-ren-yuan",
+    "exposure": 6,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "ji-shu-jing-li-ren",
+    "exposure": 7,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "ren-li-zi-yuan-guan-li-zhuan-ye-ren-yuan",
+    "exposure": 8,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "ren-li-zi-yuan-fu-wu-zhuan-ye-ren-yuan",
+    "exposure": 9,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "yin-hang-guo-ku-ye-wu-zhuan-ye-ren-yuan",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "yin-hang-qing-suan-zhuan-ye-ren-yuan",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "gong-si-jin-rong-gu-wen",
+    "exposure": 9,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "bao-xian-he-bao-zhuan-ye-ren-yuan",
+    "exposure": 7,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "bao-xian-li-pei-zhuan-ye-ren-yuan",
+    "exposure": 6,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "zheng-quan-jiao-yi-zhuan-ye-ren-yuan",
+    "exposure": 7,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "zheng-quan-tou-zi-zhuan-ye-ren-yuan",
+    "exposure": 7,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "ji-jin-zhuan-ye-ren-yuan",
+    "exposure": 6,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "zhuan-li-guan-li-zhuan-ye-ren-yuan",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "zhi-shi-chan-quan-xin-xi-fen-xi-zhuan-ye-ren-yuan",
+    "exposure": 9,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "ban-quan-zhuan-ye-ren-yuan",
+    "exposure": 5,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "shang-biao-guan-li-zhuan-ye-ren-yuan",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "yi-bao-jing-ban-zhuan-ye-ren-yuan",
+    "exposure": 5,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "fa-guan",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "jian-cha-guan",
+    "exposure": 7,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "lv-shi",
+    "exposure": 5,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "gong-zheng-yuan",
+    "exposure": 6,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "shen-pan-fu-zhu-ren-yuan",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "fa-lv-gu-wen",
+    "exposure": 7,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "she-hui-gong-zuo-zhe",
+    "exposure": 5,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "she-hui-zu-zhi-zhuan-ye-ren-yuan",
+    "exposure": 6,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "pu-tong-gao-deng-xue-xiao-jiao-shi",
+    "exposure": 8,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "gao-ji-zhong-xue-jiao-shi",
+    "exposure": 9,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "zhong-deng-zhi-ye-xue-xiao-jiao-shi",
+    "exposure": 8,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "wen-xue-zuo-jia",
+    "exposure": 6,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "qu-yi-zuo-jia",
+    "exposure": 6,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "ju-zuo-jia",
+    "exposure": 6,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "wu-dao-bian-dao",
+    "exposure": 6,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "wu-mei-she-ji",
+    "exposure": 7,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "dian-ying-dian-shi-yan-yuan",
+    "exposure": 5,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "xi-ju-xi-qu-yan-yuan",
+    "exposure": 6,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "wu-dao-yan-yuan",
+    "exposure": 6,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "pi-ying-xi-mu-ou-xi-yan-yuan",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "min-zu-yue-qi-yan-zou-yuan",
+    "exposure": 6,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "dian-ying-dian-shi-chang-ji",
+    "exposure": 7,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "dian-ying-dian-shi-she-ying-shi",
+    "exposure": 7,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "dian-ying-dian-shi-pian-fa-xing-ren",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "dian-shi-dao-bo",
+    "exposure": 5,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "jian-ji-shi",
+    "exposure": 6,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "deng-guang-shi",
+    "exposure": 5,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "fu-zhuang-dao-ju-shi",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "yan-chu-jian-du",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "zhuan-ke-jia",
+    "exposure": 7,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "diao-su-jia",
+    "exposure": 6,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "shu-fa-jia",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "fu-zhuang-she-ji-ren-yuan",
+    "exposure": 8,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "dong-hua-she-ji-ren-yuan",
+    "exposure": 9,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "huan-jing-she-ji-ren-yuan",
+    "exposure": 7,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "gong-yi-mei-shu-zhuan-ye-ren-yuan",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "shu-zi-mei-ti-yi-shu-zhuan-ye-ren-yuan",
+    "exposure": 6,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "gong-gong-yi-shu-zhuan-ye-ren-yuan",
+    "exposure": 7,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "jiao-lian-yuan",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "cai-pan-yuan",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "yun-dong-yuan",
+    "exposure": 6,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "wen-zi-ji-zhe",
+    "exposure": 8,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "wen-zi-bian-ji",
+    "exposure": 9,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "mei-shu-bian-ji",
+    "exposure": 8,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "ji-shu-bian-ji",
+    "exposure": 9,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "shu-zi-chu-ban-bian-ji",
+    "exposure": 8,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "wang-luo-bian-ji",
+    "exposure": 8,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "jiao-dui-yuan",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "yan-wen-zi-jian-xin-xi-zhuan-huan-de-zhuan-ye-ren-yuan",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "zhu-yao-gong-zuo-ren-wu",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "fan-yi",
+    "exposure": 7,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "shou-yu-fan-yi",
+    "exposure": 8,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "wen-xian-xin-xi-zhuan-ye-ren-yuan",
+    "exposure": 6,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "kao-gu-zhuan-ye-ren-yuan",
+    "exposure": 7,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "bu-ke-yi-dong-wen-wu-bao-hu-zhuan-ye-ren-yuan",
+    "exposure": 6,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "wen-wu-zhan-chen-zhuan-ye-ren-yuan",
+    "exposure": 6,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "xing-zheng-ban-shi-yuan",
+    "exposure": 6,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "zheng-wu-fu-wu-ban-shi-yuan",
+    "exposure": 6,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "tong-ji-diao-cha-yuan",
+    "exposure": 5,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "she-tuan-hui-yuan-guan-li-yuan",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "ji-yao-yuan",
+    "exposure": 6,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "su-lu-shi",
+    "exposure": 6,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "zhi-tu-yuan",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "hou-qin-guan-li-yuan",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "nong-cun-tu-di-cheng-bao-zhong-cai-yuan",
+    "exposure": 4,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "cheng-shi-guan-li-wang-ge-yuan",
+    "exposure": 5,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "lao-dong-bao-zhang-xie-li-yuan",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "tui-yi-jun-ren-shi-wu-yuan",
+    "exposure": 6,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "ren-min-jing-cha",
+    "exposure": 5,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "bao-wei-guan-li-yuan",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "fu-jing-ben-xiao-lei-bao-kuo-xia-lie-zhi-ye",
+    "exposure": 4,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "xiao-fang-zhi-hui-yuan",
+    "exposure": 3,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "xiao-fang-zhuang-bei-guan-li-yuan",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "xiao-fang-jian-du-jian-cha-yuan",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "sen-lin-xiao-fang-yuan",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "sen-lin-huo-qing-liao-wang-guan-cha-yuan",
+    "exposure": 4,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "zhong-cai-yuan",
+    "exposure": 5,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "cai-gou-yuan",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "lian-suo-jing-ying-guan-li-shi",
+    "exposure": 4,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "liang-you-jing-jia-jiao-yi-yuan",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "yi-huo-shi",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "nong-chan-pin-gou-xiao-yuan",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "yan-cao-zhi-pin-gou-xiao-yuan",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "hu-lian-wang-ying-xiao-shi",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "gui-dao-jiao-tong-lie-che-si-ji",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "tie-lu-lie-che-cheng-wu-yuan",
+    "exposure": 5,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "tie-lu-che-zhan-ke-yun-fu-wu-yuan",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "gui-dao-jiao-tong-diao-du-yuan",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "cheng-shi-gui-dao-jiao-tong-fu-wu-yuan",
+    "exposure": 5,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "dao-lu-huo-yun-qi-che-jia-shi-yuan",
+    "exposure": 3,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "dao-lu-ke-yun-fu-wu-yuan",
+    "exposure": 4,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "dao-lu-yun-shu-diao-du-yuan",
+    "exposure": 5,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "ji-dong-che-jia-shi-jiao-lian-yuan",
+    "exposure": 3,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "you-qi-dian-zhan-cao-zuo-yuan",
+    "exposure": 3,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "chuan-bo-ye-wu-yuan",
+    "exposure": 5,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "gang-kou-ke-yun-yuan",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "min-hang-cheng-wu-yuan",
+    "exposure": 4,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "hang-kong-an-quan-yuan",
+    "exposure": 4,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "ji-chang-chang-wu-yuan",
+    "exposure": 6,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "ke-yun-shou-piao-yuan",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "huo-yun-dai-li-fu-wu-yuan",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "li-huo-yuan",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "gong-ying-lian-guan-li-shi",
+    "exposure": 6,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "you-jian-fen-jian-yuan",
+    "exposure": 5,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "you-jian-zhuan-yun-yuan",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "ji-you-ye-wu-yuan",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "you-zheng-shi-chang-ye-wu-yuan",
+    "exposure": 5,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "kuai-jian-chu-li-yuan",
+    "exposure": 6,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "guo-ji-kuai-di-ye-wu-shi",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "qian-ting-fu-wu-yuan",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "ke-fang-fu-wu-yuan",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "zhong-shi-peng-tiao-shi",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "xi-shi-mian-dian-shi",
+    "exposure": 6,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "can-ting-fu-wu-yuan",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "ying-yang-pei-can-yuan",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "diao-jiu-shi",
+    "exposure": 4,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "diao-yin-shi",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "yan-hui-ding-zhi-fu-wu-shi",
+    "exposure": 5,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "xin-xi-tong-xin-ying-ye-yuan",
+    "exposure": 4,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "xin-xi-tong-xin-ye-wu-yuan",
+    "exposure": 6,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "xin-xi-tong-xin-wang-luo-xian-wu-yuan",
+    "exposure": 4,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "xin-xi-tong-xin-wang-luo-dong-li-ji-wu-yuan",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "guang-bo-dian-shi-tian-xian-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "xin-xi-tong-xin-wang-luo-yun-xing-guan-li-yuan",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "wang-luo-yu-xin-xi-an-quan-guan-li-yuan",
+    "exposure": 6,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "xin-xi-an-quan-ce-shi-yuan",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "shu-zi-hua-jie-jue-fang-an-she-ji-shi",
+    "exposure": 8,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "ji-suan-ji-cheng-xu-she-ji-yuan",
+    "exposure": 7,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "ji-suan-ji-ruan-jian-ce-shi-yuan",
+    "exposure": 7,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "ren-gong-zhi-neng-xun-lian-shi",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "qu-kuai-lian-ying-yong-cao-zuo-yuan",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "fu-wu-ji-qi-ren-ying-yong-ji-shu-yuan",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "shu-zi-luan-sheng-ying-yong-ji-shu-yuan",
+    "exposure": 6,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "yin-hang-zong-he-gui-yuan",
+    "exposure": 6,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "yin-hang-xin-dai-yuan",
+    "exposure": 4,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "yin-hang-xin-yong-ka-ye-wu-yuan",
+    "exposure": 4,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "bao-xian-dai-li-ren",
+    "exposure": 4,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "bao-xian-bao-quan-yuan",
+    "exposure": 5,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "bao-xian-gong-gu-ren",
+    "exposure": 4,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "jian-ding-gu-jia-shi",
+    "exposure": 6,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "xin-tuo-ye-wu-yuan",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "wu-ye-guan-li-shi",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "zhi-neng-lou-yu-guan-li-yuan",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "fang-di-chan-ce-hua-shi",
+    "exposure": 5,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "pai-mai-fu-wu-shi",
+    "exposure": 6,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "feng-xian-guan-li-shi",
+    "exposure": 6,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "ke-hu-fu-wu-guan-li-yuan",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "xin-yong-guan-li-shi",
+    "exposure": 4,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "zhi-ye-zhi-dao-shi",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "qi-ye-ren-li-zi-yuan-guan-li-shi",
+    "exposure": 6,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "zhi-ye-pei-xun-shi",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "dao-you-jing-wai-zhi-liu-bu-gui-deng-qing-kuang",
+    "exposure": 4,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "lv-you-zi-xun-yuan",
+    "exposure": 7,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "gong-gong-you-lan-chang-suo-fu-wu-yuan",
+    "exposure": 4,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "bao-an-yuan",
+    "exposure": 3,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "an-jian-yuan",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "shang-pin-jian-du-yuan",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "shang-pin-fang-sun-yuan",
+    "exposure": 4,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "hui-zhan-fu-wu-shi",
+    "exposure": 4,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "zhuang-shi-mei-gong",
+    "exposure": 3,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "hang-kong-qi-xiang-yuan",
+    "exposure": 4,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "hai-yang-shui-wen-qi-xiang-guan-ce-yuan",
+    "exposure": 5,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "hai-yang-sheng-wu-diao-cha-yuan",
+    "exposure": 4,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "da-di-ce-liang-yuan",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "di-tu-hui-zhi-yuan",
+    "exposure": 5,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "hai-yang-ce-hui-yuan",
+    "exposure": 4,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "wu-ren-ji-ce-hui-cao-kong-yuan",
+    "exposure": 6,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "di-li-xin-xi-chu-li-yuan",
+    "exposure": 4,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "di-li-xin-xi-ying-yong-zuo-ye-yuan",
+    "exposure": 4,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "xian-wei-jian-yan-yuan",
+    "exposure": 5,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "yao-wu-jian-yan-yuan",
+    "exposure": 4,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "ji-dong-che-jian-ce-gong",
+    "exposure": 3,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "ji-liang-yuan",
+    "exposure": 6,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "gong-lu-shui-yun-gong-cheng-shi-yan-jian-ce-yuan",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "huan-jing-jian-ce-yuan",
+    "exposure": 5,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "di-kan-zuan-tan-gong",
+    "exposure": 3,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "di-kan-jue-jin-gong",
+    "exposure": 3,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "wu-tan-gong",
+    "exposure": 3,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "di-zhi-diao-cha-yuan",
+    "exposure": 5,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "jia-yong-fang-zhi-pin-she-ji-shi",
+    "exposure": 8,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "se-cai-da-pei-shi",
+    "exposure": 4,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "shi-nei-zhuang-shi-she-ji-shi",
+    "exposure": 7,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "guang-gao-she-ji-shi",
+    "exposure": 8,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "shou-shi-she-ji-shi",
+    "exposure": 8,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "jia-ju-she-ji-shi",
+    "exposure": 7,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "tao-ci-chan-pin-she-ji-shi",
+    "exposure": 7,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "xie-lei-she-ji-shi",
+    "exposure": 6,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "deng-ju-she-ji-shi",
+    "exposure": 6,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "hui-zhan-she-ji-shi",
+    "exposure": 8,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "jian-zhu-mu-qiang-she-ji-shi",
+    "exposure": 7,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "zhuo-qin-shi",
+    "exposure": 6,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "gong-ye-she-ji-gong-yi-shi",
+    "exposure": 4,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "shang-ye-she-ying-shi",
+    "exposure": 6,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "hua-gong-sheng-chan-xian-chang-ji-shu-yuan",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "he-dao-xiu-fang-gong",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "shui-gong-hun-ning-tu-wei-xiu-gong",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "shui-gong-zha-men-yun-xing-gong",
+    "exposure": 3,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "shui-wen-kan-ce-gong",
+    "exposure": 4,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "guan-qu-guan-li-gong",
+    "exposure": 3,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "cao-di-jian-hu-yuan",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "ye-sheng-dong-wu-bao-hu-yuan",
+    "exposure": 6,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "ye-sheng-zhi-wu-bao-hu-yuan",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "huo-dong",
+    "exposure": 6,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "zhan-chu-dong-wu-bao-yu-yuan",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "wei-xian-fei-wu-chu-li-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "bao-jie-yuan",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "you-hai-sheng-wu-fang-zhi-yuan",
+    "exposure": 4,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "cao-ping-yuan-yi-shi",
+    "exposure": 5,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "pen-jing-shi",
+    "exposure": 5,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "ying-you-er-fa-zhan-yin-dao-yuan",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "bao-yu-shi",
+    "exposure": 5,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "gu-can-er-tong-hu-li-yuan",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "cai-feng-se-de-wen-du",
+    "exposure": 6,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "pi-ge-hu-li-shi",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "zhi-bu-shi",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "mei-jia-shi",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "yu-chi-fu-wu-yuan",
+    "exposure": 5,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "bao-jian-an-mo-shi",
+    "exposure": 6,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "hun-li-ce-hua-shi",
+    "exposure": 6,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "hun-yin-jia-ting-zi-xun-shi",
+    "exposure": 7,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "yi-ti-fang-fu-zheng-rong-shi",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "yi-ti-huo-hua-shi",
+    "exposure": 4,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "gong-mu-guan-li-yuan",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "chong-wu-xun-dao-shi",
+    "exposure": 6,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "chong-wu-mei-rong-shi",
+    "exposure": 3,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "gong-dian-fu-wu-yuan",
+    "exposure": 6,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "zong-he-neng-yuan-fu-wu-yuan",
+    "exposure": 6,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "shui-gong-ying-fu-wu-yuan",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "cun-zhen-gong-shui-yuan",
+    "exposure": 4,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "qi-che-wei-xiu-gong",
+    "exposure": 4,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "mo-tuo-che-xiu-li-gong",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "ji-suan-ji-wei-xiu-gong",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "ban-gong-she-bei-wei-xiu-gong",
+    "exposure": 4,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "jia-yong-dian-zi-chan-pin-wei-xiu-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "zhong-biao-wei-xiu-gong",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "suo-ju-xiu-li-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "yue-qi-wei-xiu-gong",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "gang-qin-diao-lv-shi",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "qun-zhong-wen-hua-zhi-dao-yuan",
+    "exposure": 4,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "wen-hua-jing-ji-ren",
+    "exposure": 5,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "quan-mei-ti-yun-ying-shi",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "dang-an-shu-zi-hua-guan-li-shi",
+    "exposure": 6,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "tu-shu-guan-fu-wu-yuan",
+    "exposure": 5,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "dong-hua-zhi-zuo-yuan",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "ying-shi-yan-huo-te-xiao-yuan",
+    "exposure": 6,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "dian-ying-xi-yin-yuan",
+    "exposure": 5,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "zhao-ming-gong",
+    "exposure": 3,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "ying-shi-fu-zhuang-yuan",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "dian-shi-she-xiang-yuan",
+    "exposure": 5,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "zai-xian-xue-xi-fu-wu-shi",
+    "exposure": 5,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "yan-xue-lv-xing-zhi-dao-shi",
+    "exposure": 5,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "yi-liao-hu-li-yuan",
+    "exposure": 4,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "ying-yang-shi",
+    "exposure": 5,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "sheng-zhi-jian-kang-zi-xun-shi",
+    "exposure": 8,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "chu-sheng-que-xian-fang-kong-zi-xun-shi",
+    "exposure": 7,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "kou-qiang-xiu-fu-ti-zhi-zuo-shi",
+    "exposure": 5,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "ting-jue-kou-yu-shi",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "kang-fu-fu-zhu-ji-shu-zi-xun-shi",
+    "exposure": 6,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "fang-yi-yuan",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "xiao-du-yuan",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "gong-gong-chang-suo-wei-sheng-guan-li-yuan",
+    "exposure": 6,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "she-hui-ti-yu-zhi-dao-yuan",
+    "exposure": 6,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "ti-yu-chang-guan-guan-li-yuan",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "you-yong-jiu-sheng-yuan",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "ti-yu-jing-ji-ren",
+    "exposure": 6,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "dian-zi-jing-ji-yun-ying-shi",
+    "exposure": 6,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "sen-lin-yuan-lin-kang-yang-shi",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "min-su-guan-jia",
+    "exposure": 4,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "zhong-zi-fan-yu-yuan",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "zhong-miao-fan-yu-yuan",
+    "exposure": 5,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "nong-yi-gong",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "shi-yong-jun-sheng-chan-gong",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "re-dai-zuo-wu-zai-pei-gong",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "lin-cao-zhong-miao-gong",
+    "exposure": 3,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "hu-lin-yuan",
+    "exposure": 3,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "sen-lin-fu-yu-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "jia-chu-fan-zhi-yuan",
+    "exposure": 5,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "jia-chu-si-yang-yuan",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "shi-yan-dong-wu-yang-zhi-yuan",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "shui-sheng-dong-wu-miao-zhong-fan-yu-gong",
+    "exposure": 3,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "shui-sheng-dong-wu-si-yang-gong",
+    "exposure": 3,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "shui-sheng-zhi-wu-zai-pei-gong",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "shui-chan-yang-zhi-qian-shui-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "yu-wang-ju-gong",
+    "exposure": 3,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "nong-ye-ji-shu-yuan",
+    "exposure": 4,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "nong-zuo-wu-zhi-bao-yuan",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "dong-wu-jian-yi-jian-yan-yuan",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "shui-sheng-wu-bing-hai-fang-zhi-yuan",
+    "exposure": 6,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "zhao-qi-gong",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "wei-shui-dian-li-yong-gong",
+    "exposure": 3,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "xiao-feng-dian-li-yong-gong",
+    "exposure": 3,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "nong-ji-jia-shi-cao-zuo-yuan",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "nong-ji-xiu-li-gong",
+    "exposure": 3,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "nong-ji-fu-wu-jing-ji-ren",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "yuan-yi-chan-pin-jia-gong-gong",
+    "exposure": 3,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "zhi-wu-yuan-liao-zhi-qu-gong",
+    "exposure": 3,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "jing-ji-kun-chong-chan-pin-jia-gong-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "shui-chan-pin-yuan-liao-chu-li-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "zhi-mi-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "zhi-fen-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "zhi-you-gong",
+    "exposure": 3,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "si-liao-jia-gong-gong",
+    "exposure": 1,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "shi-tang-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "chu-qin-tu-zai-jia-gong-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "rou-zhi-pin-jia-gong-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "dan-lei-zhi-pin-jia-gong-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "shui-chan-zhi-pin-jing-zhi-gong",
+    "exposure": 2,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "guo-shu-jian-guo-jia-gong-gong",
+    "exposure": 1,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "zhi-wu-dan-bai-zhi-zuo-gong",
+    "exposure": 1,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "gao-dian-mian-bao-hong-bei-gong",
+    "exposure": 3,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "tang-guo-qiao-ke-li-zhi-zao-gong",
+    "exposure": 1,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "mi-mian-zhu-shi-zhi-zuo-gong",
+    "exposure": 3,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "leng-dong-shi-pin-zhi-zuo-gong",
+    "exposure": 1,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "ru-pin-jia-gong-gong",
+    "exposure": 1,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "wei-jing-zhi-zao-gong",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "jiang-you-jiang-lei-zhi-zuo-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "shi-cu-zhi-zuo-gong",
+    "exposure": 1,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "jing-zhi-zhi-yan-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "ning-meng-suan-zhi-zao-gong",
+    "exposure": 1,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "tiao-wei-pin-pin-ping-shi",
+    "exposure": 4,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "niang-jiu-shi",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "jiu-jing-niang-zao-gong",
+    "exposure": 1,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "pi-jiu-niang-zao-gong",
+    "exposure": 1,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "huang-jiu-niang-zao-gong",
+    "exposure": 2,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "pin-jiu-shi",
+    "exposure": 4,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "mai-ya-zhi-mai-gong",
+    "exposure": 1,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "cha-ye-jia-gong-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "ping-cha-shi",
+    "exposure": 4,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "yan-ye-ping-ji-yuan",
+    "exposure": 3,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "yan-yong-si-shu-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "yan-ji-she-bei-cao-zuo-gong",
+    "exposure": 3,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "si-ma-mao-xian-wei-yu-chu-li-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "fang-sha-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "jiang-sha-jiang-ran-gong",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "zhi-bu-gong",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "wei-bian-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "jing-bian-gong",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "yin-ran-qian-chu-li-gong",
+    "exposure": 1,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "yin-hua-gong",
+    "exposure": 3,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "fang-zhi-yin-hua-zhi-ban-gong",
+    "exposure": 1,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "yin-ran-ran-hua-liao-pei-zhi-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "fu-zhuang-zhi-ban-shi",
+    "exposure": 5,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "feng-ren-pin-zheng-xing-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "fu-zhuang-shui-xi-gong",
+    "exposure": 3,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "mao-pi-ji-mao-pi-zhi-pin-jia-gong-gong",
+    "exposure": 2,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "zhi-xie-gong",
+    "exposure": 1,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "zhi-mao-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "zhi-cai-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "mu-zhu-teng-cai-chu-li-gong",
+    "exposure": 3,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "xian-wei-ban-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "bao-hua-ban-gong",
+    "exposure": 2,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "ren-zao-ban-shi-mian-gong",
+    "exposure": 3,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "shou-gong-mu-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "ji-xie-mu-gong",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "jia-ju-zhi-zuo-gong",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "zhi-jiang-fei-ye-hui-shou-li-yong-gong",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "zhi-xiang-zhi-he-zhi-zuo-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "yin-shua-cao-zuo-yuan",
+    "exposure": 2,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "yin-xiang-zhi-pin-he-dian-zi-chu-ban-wu-fu-zhi-yuan",
+    "exposure": 4,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "zi-lai-shui-bi-zhi-zao-gong",
+    "exposure": 3,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "yuan-zhu-bi-zhi-zao-gong",
+    "exposure": 1,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "mao-bi-zhi-zuo-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "mo-zhi-zuo-gong",
+    "exposure": 2,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "hui-tu-yi-qi-zhi-zuo-gong",
+    "exposure": 2,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "ti-qin-ji-ta-zhi-zuo-gong",
+    "exposure": 2,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "chui-zou-yue-qi-zhi-zuo-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "da-ji-yue-qi-zhi-zuo-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "gong-yi-pin-diao-ke-gong",
+    "exposure": 1,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "jing-tai-lan-zhi-zuo-gong",
+    "exposure": 1,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "jin-shu-bai-jian-zhi-zuo-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "ban-hua-zhi-zuo-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "ren-zao-hua-zhi-zuo-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "gong-yi-hua-zhi-zuo-gong",
+    "exposure": 1,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "shou-gong-di-tan-zhi-zuo-gong",
+    "exposure": 2,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "ji-zhi-di-tan-zhi-zuo-gong",
+    "exposure": 3,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "zhuang-biao-shi",
+    "exposure": 4,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "min-jian-gong-yi-pin-yi-ren",
+    "exposure": 1,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "jian-shen-qi-cai-zhi-zuo-gong",
+    "exposure": 1,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "wan-ju-zhi-zuo-gong",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "yuan-you-zheng-liu-gong",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "la-you-zha-you-jia-qing-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "zha-you-re-jia-gong-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "run-hua-you-zhi-sheng-chan-gong",
+    "exposure": 1,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "you-zhi-qi-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "you-pin-chu-yun-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "you-mu-ye-yan-ti-lian-gong",
+    "exposure": 2,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "lian-jiao-gong",
+    "exposure": 3,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "mei-zhi-you-sheng-chan-gong",
+    "exposure": 1,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "shui-mei-jiang-zhi-bei-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "gong-ye-xing-mei-gong",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "hua-gong-yuan-liao-zhun-bei-gong",
+    "exposure": 2,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "zhi-leng-gong",
+    "exposure": 3,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "gong-ye-qing-xi-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "yan-suan-sheng-chan-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "lin-suan-sheng-chan-gong",
+    "exposure": 1,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "shao-jian-sheng-chan-gong",
+    "exposure": 1,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "lu-shui-zong-he-li-yong-gong",
+    "exposure": 2,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "wu-ji-hua-xue-fan-ying-sheng-chan-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "zhi-fang-ting-sheng-chan-gong",
+    "exposure": 1,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "zhi-fang-ting-yan-sheng-wu-sheng-chan-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "you-ji-he-cheng-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "xiao-suan-an-sheng-chan-gong",
+    "exposure": 2,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "fu-hun-fei-sheng-chan-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "gai-mei-lin-fei-sheng-chan-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "yan-liao-sheng-chan-gong",
+    "exposure": 1,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "he-cheng-xiang-jiao-sheng-chan-gong",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "cui-hua-ji-sheng-chan-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "hua-xue-shi-ji-sheng-chan-gong",
+    "exposure": 3,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "yin-ran-zhu-ji-sheng-chan-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "you-zhi-hua-gong-chan-pin-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "dong-wu-jiao-zhi-zao-gong",
+    "exposure": 3,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "you-ji-gui-sheng-chan-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "you-ji-fu-sheng-chan-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "song-jie-you-zhi-pin-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "huo-xing-tan-sheng-chan-gong",
+    "exposure": 1,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "shuan-pi-zhi-pin-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "zhi-wu-yuan-liao-shui-jie-gong",
+    "exposure": 1,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "jiao-yin-ban-cai-sheng-chan-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "rou-xing-ban-cai-sheng-chan-gong",
+    "exposure": 1,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "ci-ji-lu-cai-liao-sheng-chan-gong",
+    "exposure": 3,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "re-zhuan-yi-fang-hu-mo-tu-bu-gong",
+    "exposure": 3,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "gan-you-zhi-zao-gong",
+    "exposure": 1,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "sheng-wu-zhi-hua-gong-chan-pin-sheng-chan-gong",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "suo-zhuang-bao-po-qi-cai-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "huo-gong-pin-zhuang-pei-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "he-cheng-xi-di-ji-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "hua-zhuang-pin-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "xiang-liao-zhi-zao-gong",
+    "exposure": 1,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "diao-xiang-shi",
+    "exposure": 5,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "xiang-jing-pei-zhi-gong",
+    "exposure": 3,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "hua-xue-he-cheng-zhi-yao-gong",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "zhong-yao-pao-zhi-gong",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "shou-yao-zhi-zao-gong",
+    "exposure": 3,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "yi-miao-zhi-pin-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "hua-xian-ju-he-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "fang-si-gong",
+    "exposure": 2,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "xiang-jiao-zhi-pin-sheng-chan-gong",
+    "exposure": 3,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "su-liao-zhi-pin-cheng-xing-zhi-zuo-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "shui-ni-sheng-chan-gong",
+    "exposure": 3,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "shi-gao-fen-sheng-chan-gong",
+    "exposure": 1,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "zhuan-wa-sheng-chan-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "shi-cai-sheng-chan-gong",
+    "exposure": 3,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "bao-wen-cai-liao-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "xi-yin-cai-liao-zhi-zao-gong",
+    "exposure": 1,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "bo-li-pei-liao-rong-hua-gong",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "bo-li-ji-bo-li-zhi-pin-cheng-xing-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "shi-ying-bo-li-zhi-pin-jia-gong-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "bo-li-xian-wei-ji-zhi-pin-gong",
+    "exposure": 1,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "tao-ci-yuan-liao-zhun-bei-gong",
+    "exposure": 2,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "tao-ci-shao-cheng-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "tao-ci-zhuang-shi-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "gu-jian-liu-li-gong",
+    "exposure": 3,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "nai-huo-cai-liao-shao-cheng-gong",
+    "exposure": 1,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "nai-huo-zhi-pin-jia-gong-gong",
+    "exposure": 3,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "tan-su-duan-shao-gong",
+    "exposure": 1,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "tan-su-cheng-xing-gong",
+    "exposure": 3,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "shi-mo-hua-gong",
+    "exposure": 3,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "tan-su-zhi-pin-gong",
+    "exposure": 2,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "ren-gong-he-cheng-jing-ti-gong",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "gao-ling-tu-jia-gong-gong",
+    "exposure": 1,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "yun-mu-zhi-pin-gong",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "lu-tian-cai-kuang-gong",
+    "exposure": 3,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "kuang-jing-kai-jue-gong",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "jing-xia-cai-kuang-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "jing-xia-zhi-hu-gong",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "jing-xia-ji-che-yun-shu-gong",
+    "exposure": 3,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "kuang-jing-tong-feng-gong",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "kuang-shan-an-quan-fang-hu-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "kuang-shan-jiu-hu-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "kuang-shan-sheng-chan-ji-kong-yuan",
+    "exposure": 3,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "xuan-kuang-gong",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "xuan-kuang-tuo-shui-gong",
+    "exposure": 2,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "wei-kuang-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "shi-you-kan-tan-gong",
+    "exposure": 3,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "zuan-jing-gong",
+    "exposure": 3,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "shui-xia-zuan-jing-she-bei-cao-zuo-gong",
+    "exposure": 3,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "shi-you-kai-cai-gong",
+    "exposure": 2,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "tian-ran-qi-chu-li-gong",
+    "exposure": 1,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "hai-shang-ping-tai-shui-shou",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "jing-kuang-yan-zhi-yan-gong",
+    "exposure": 1,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "shao-jie-qiu-tuan-yuan-liao-gong",
+    "exposure": 1,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "shao-jie-cheng-pin-gong",
+    "exposure": 3,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "gao-lu-yuan-liao-gong",
+    "exposure": 1,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "gao-lu-yun-zhuan-gong",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "lian-gang-gong",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "lian-gang-jiao-zhu-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "zheng-mo-tuo-mo-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "zhu-guan-jing-zheng-gong",
+    "exposure": 2,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "tie-he-jin-bei-shao-gong",
+    "exposure": 1,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "tie-he-jin-shi-fa-ye-lian-gong",
+    "exposure": 1,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "zhong-ye-bei-liao-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "zhong-ye-shi-fa-ye-lian-gong",
+    "exposure": 3,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "dian-jie-jing-lian-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "yang-hua-lv-zhi-qu-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "mei-ye-lian-gong",
+    "exposure": 3,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "gui-ye-lian-gong",
+    "exposure": 2,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "tai-ye-lian-gong",
+    "exposure": 3,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "xi-tu-cai-liao-sheng-chan-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "li-ye-lian-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "ban-dao-ti-fu-liao-zhi-bei-gong",
+    "exposure": 3,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "jin-shu-cai-suan-jian-xi-gong",
+    "exposure": 2,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "jin-shu-cai-re-chu-li-gong",
+    "exposure": 3,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "jin-shu-cai-si-la-ba-gong",
+    "exposure": 1,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "gang-si-sheng-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "ying-zhi-he-jin-shao-jie-gong",
+    "exposure": 2,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "mo-gong-cha-fen-xi",
+    "exposure": 5,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "tang-gong-fu-he-ji-chuang-he-jia-gong-zhong-xin-deng-jin-xing-gong-jian-qie-xiao-jia-gong",
+    "exposure": 2,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "dian-qie-xiao-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "la-chuang-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "chong-ya-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "zeng-cai-zhi-zao-she-bei-cao-zuo-yuan",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "duan-zao-gong",
+    "exposure": 1,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "jin-shu-re-chu-li-gong",
+    "exposure": 1,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "fen-mo-ye-jin-zhi-pin-zhi-zao-gong",
+    "exposure": 3,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "tu-zhuang-gong",
+    "exposure": 2,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "pen-tu-pen-han-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "mu-ju-gong",
+    "exposure": 1,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "mo-xing-zhi-zuo-gong",
+    "exposure": 3,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "mo-ju-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "liang-ju-he-ren-ju-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "gong-ju-wu-jin-zhi-zuo-gong",
+    "exposure": 3,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "suo-ju-zhi-zuo-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "jin-shu-chui-ju-ji-qi-min-zhi-zuo-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "yan-jing-jia-zhi-zuo-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "zhuang-pei-qian-gong",
+    "exposure": 3,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "chi-lun-zhi-zao-gong",
+    "exposure": 1,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "jian-bian-su-ji-zhuang-pei-diao-shi-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "tan-huang-gong",
+    "exposure": 1,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "guo-lu-she-bei-zhi-zao-gong",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "qi-lun-ji-zhuang-pei-diao-shi-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "feng-dian-ji-zu-zhi-zao-gong",
+    "exposure": 1,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "han-jie-she-bei-zhuang-pei-diao-shi-gong",
+    "exposure": 1,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "feng-ji-zhuang-pei-diao-shi-gong",
+    "exposure": 1,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "guo-lv-yu-fen-li-ji-xie-zhuang-pei-diao-shi-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "qi-ti-fen-li-she-bei-zhuang-pei-diao-shi-gong",
+    "exposure": 2,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "ye-ya-ye-li-qi-dong-mi-feng-jian-zhi-zao-gong",
+    "exposure": 1,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "gong-ye-lu-ji-dian-lu-zhuang-pei-gong",
+    "exposure": 3,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "dian-dong-gong-ju-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "dian-ying-dian-jiao-she-bei-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "zhao-xiang-ji-ji-qi-cai-zhi-zao-gong",
+    "exposure": 1,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "ban-gong-xiao-ji-xie-zhi-zao-gong",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "guang-xue-jing-tou-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "kuang-yong-dian-ji-che-zhuang-pei-gong",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "gong-cheng-ji-xie-zhuang-pei-diao-shi-gong",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "yin-shua-she-bei-zhuang-pei-diao-shi-gong",
+    "exposure": 1,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "dian-zi-zhuan-yong-she-bei-zhuang-diao-gong",
+    "exposure": 3,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "zhen-kong-ce-shi-gong",
+    "exposure": 3,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "geng-zhong-ji-xie-zhi-zao-gong",
+    "exposure": 1,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "yi-liao-qi-xie-zhuang-pei-gong",
+    "exposure": 2,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "yi-yong-cai-liao-chan-pin-sheng-chan-gong",
+    "exposure": 1,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "qi-che-sheng-chan-xian-cao-zuo-gong",
+    "exposure": 1,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "qi-che-shi-jian-zhi-zao-gong",
+    "exposure": 3,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "tie-lu-ji-che-zhi-xiu-gong",
+    "exposure": 1,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "dong-che-zu-zhi-xiu-shi",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "jin-shu-chuan-ti-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "chuan-bo-dian-qi-zhuang-pei-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "chuan-bo-fu-jian-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "hang-kong-fa-dong-ji-zhuang-pei-gong",
+    "exposure": 1,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "hang-kong-fu-jian-zhuang-pei-gong",
+    "exposure": 1,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "hang-kong-yi-biao-zhuang-pei-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "hang-kong-zhuang-pei-ping-heng-gong",
+    "exposure": 2,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "fei-ji-wu-xian-dian-she-bei-an-zhuang-tiao-shi-gong",
+    "exposure": 1,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "fei-ji-lei-da-an-zhuang-tiao-shi-gong",
+    "exposure": 3,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "fei-ji-wai-chang-tiao-shi-yu-wei-hu-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "hang-kong-huan-kong-jiu-sheng-zhuang-bei-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "mo-tuo-che-zhuang-diao-gong",
+    "exposure": 3,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "dian-ji-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "bian-ya-qi-hu-gan-qi-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "gao-di-ya-dian-qi-ji-cheng-tao-she-bei-zhuang-pei-gong",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "guang-fu-zu-jian-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "jue-yuan-zhi-pin-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "dian-qi-fu-jian-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "jia-yong-dian-bing-xiang-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "xi-yi-ji-zhi-zao-gong",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "xiao-xing-jia-yong-dian-qi-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "ran-qi-ju-zhi-zao-gong",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "dian-guang-yuan-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "deng-ju-zhi-zao-gong",
+    "exposure": 1,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "dian-zu-qi-zhi-zao-gong",
+    "exposure": 1,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "wei-bo-tie-yang-ti-yuan-qi-jian-zhi-zao-gong",
+    "exposure": 3,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "shi-ying-jing-ti-sheng-zhang-she-bei-cao-zuo-gong",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "dian-sheng-qi-jian-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "gao-pin-dian-gan-qi-zhi-zao-gong",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "dian-qi-jie-cha-jian-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "bao-mo-jia-re-qi-jian-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "wen-cha-dian-qi-jian-zhi-zao-gong",
+    "exposure": 1,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "zhen-kong-dian-zi-qi-jian-ling-jian-zhi-zao-ji-zhuang-diao-gong",
+    "exposure": 3,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "dian-ji-si-zhi-zao-gong",
+    "exposure": 1,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "ye-jing-xian-shi-qi-jian-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "jing-pian-jia-gong-gong",
+    "exposure": 3,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "ban-dao-ti-xin-pian-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "ci-tou-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "tong-xin-xi-tong-she-bei-zhi-zao-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "tong-xin-zhong-duan-she-bei-zhi-zao-gong",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "zhi-neng-ying-jian-zhuang-diao-yuan",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "dian-zi-she-bei-tiao-shi-gong",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "wu-lian-wang-an-zhuang-tiao-shi-yuan",
+    "exposure": 1,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "yi-qi-yi-biao-zhi-zao-gong",
+    "exposure": 1,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "zhong-biao-ji-ji-shi-yi-qi-zhi-zao-gong",
+    "exposure": 1,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "zai-sheng-wu-zi-jia-gong-chu-li-gong",
+    "exposure": 3,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "guo-lu-yun-xing-zhi-ban-yuan",
+    "exposure": 5,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "ran-liao-zhi-ban-yuan",
+    "exposure": 4,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "qi-lun-ji-yun-xing-zhi-ban-yuan",
+    "exposure": 5,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "dian-qi-zhi-ban-yuan",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "huo-dian-chang-qing-leng-zhi-ban-yuan",
+    "exposure": 4,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "shui-li-fa-dian-yun-xing-zhi-ban-yuan",
+    "exposure": 5,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "guang-fu-fa-dian-yun-wei-zhi-ban-yuan",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "guo-lu-cao-zuo-gong",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "bian-pei-dian-yun-xing-zhi-ban-yuan",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "qi-ti-shen-leng-fen-li-gong",
+    "exposure": 1,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "gong-ye-qi-ti-ye-hua-gong",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "gong-ye-fei-qi-zhi-li-gong",
+    "exposure": 1,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "shui-sheng-chan-chu-li-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "si-beng-gong",
+    "exposure": 2,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "qi-zhu-gong",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "shi-gong-shi-yong-gong-ju",
+    "exposure": 1,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "hun-ning-tu-gong",
+    "exposure": 3,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "jia-zi-gong",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "zhuang-pei-shi-jian-zhu-shi-gong-yuan",
+    "exposure": 2,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "xiang-cun-jian-she-gong-jiang",
+    "exposure": 3,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "tie-lu-zi-lun-yun-zhuan-she-bei-gong",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "zhu-lu-gong",
+    "exposure": 2,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "gong-lu-yang-hu-gong",
+    "exposure": 1,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "qiao-sui-gong",
+    "exposure": 3,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "fang-shui-gong",
+    "exposure": 1,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "shui-yun-gong-cheng-shi-gong-gong",
+    "exposure": 1,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "song-pei-dian-xian-lu-gong",
+    "exposure": 1,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "qian-yin-dian-li-xian-lu-an-zhuang-wei-hu-gong",
+    "exposure": 1,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "she-shi",
+    "exposure": 3,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "jian-cha",
+    "exposure": 4,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "lu-sui-dao-she-shi",
+    "exposure": 5,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "kan-shou-qiao-liang",
+    "exposure": 3,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "ji-xie-she-bei-an-zhuang-gong",
+    "exposure": 3,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "dian-qi-she-bei-an-zhuang-gong",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "guan-gong-tong-wei-xiu-guo-cheng-zhong-zhi-leng-ji-de-hui-shou-zai-li-yong-huo-zai-sheng",
+    "exposure": 2,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "zhi-leng-kong-tiao-xi-tong-an-zhuang-wei-xiu-gong",
+    "exposure": 2,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "dian-li-dian-qi-she-bei-an-zhuang-gong",
+    "exposure": 1,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "zhuang-shi-zhuang-xiu-gong",
+    "exposure": 1,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "gu-jian-zhu-gong",
+    "exposure": 1,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "zhuan-yong-che-liang-jia-shi-yuan",
+    "exposure": 1,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "ji-che-diao-du-zhi-ban-yuan",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "ji-che-zheng-bei-yuan",
+    "exposure": 4,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "tie-lu-dian-yuan-gong",
+    "exposure": 3,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "hang-kong-tong-xin-dao-hang-jian-shi-yuan",
+    "exposure": 4,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "min-hang-ji-chang-zhuan-yong-she-bei-ji-wu-yuan",
+    "exposure": 5,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "hang-kong-you-liao-yuan",
+    "exposure": 4,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "chuan-bo-ji-cang-she-bei-cao-zuo-gong",
+    "exposure": 3,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "chuan-zha-ji-sheng-chuan-ji-yun-guan-yuan",
+    "exposure": 4,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "qi-zhong-zhuang-xie-ji-xie-cao-zuo-gong",
+    "exposure": 1,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "shi-yong-gong-ju",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "ti-de-ren-yuan",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "zhu-yao-gong-zuo-ren-wu",
+    "exposure": 2,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "gen-ju-wu-ti-zhi-liang",
+    "exposure": 4,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "she-bei-dian-jian-yuan",
+    "exposure": 3,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "dian-gong-jian-xiu-guo-lu-ben-ti-ji-fu-ji",
+    "exposure": 2,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "yi-qi-yi-biao-wei-xiu-gong",
+    "exposure": 3,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "dian-ji-jian-xiu-gong",
+    "exposure": 3,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "ji-dian-she-bei-wei-xiu-gong",
+    "exposure": 3,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "chuan-bo-xiu-li-gong",
+    "exposure": 2,
+    "rationale": "需要人际沟通和现场操作，AI影响有限。"
+  },
+  {
+    "slug": "hang-kong-qi-bu-jian-xiu-li-gong",
+    "exposure": 3,
+    "rationale": "涉及复杂人际互动，AI辅助潜力大但难以取代。"
+  },
+  {
+    "slug": "hua-xue-jian-yan-yuan",
+    "exposure": 5,
+    "rationale": "需要专业知识和经验判断，AI难以完全替代。"
+  },
+  {
+    "slug": "wu-li-xing-neng-jian-yan-yuan",
+    "exposure": 5,
+    "rationale": "工作流程标准化程度高，部分任务可被AI替代。"
+  },
+  {
+    "slug": "sheng-hua-jian-yan-yuan",
+    "exposure": 3,
+    "rationale": "工作内容涉及大量信息处理和决策，AI可辅助完成部分任务。"
+  },
+  {
+    "slug": "wu-sun-jian-ce-yuan",
+    "exposure": 4,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  },
+  {
+    "slug": "cheng-zhong-ji-liang-gong",
+    "exposure": 1,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "an-quan-yuan",
+    "exposure": 4,
+    "rationale": "需要手工操作和现场经验，AI直接干预有限。"
+  },
+  {
+    "slug": "gong-ye-shi-jue-xi-tong-yun-wei-yuan",
+    "exposure": 1,
+    "rationale": "数据处理和文档工作是核心，AI可显著提升效率。"
+  },
+  {
+    "slug": "gong-ye-ji-qi-ren-xi-tong-cao-zuo-yuan",
+    "exposure": 1,
+    "rationale": "核心工作需要人类判断和创造力，AI为辅助工具。"
+  }
+]
